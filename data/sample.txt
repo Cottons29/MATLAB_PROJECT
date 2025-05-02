@@ -1,1518 +1,2308 @@
-I love to eat pizza
-She goes to school every day
-He likes to play football
-The sun is shining bright
-They are going to the market
-We should start studying now
-It is a beautiful morning
-I want to learn MATLAB
-The dog barked all night
-She reads a lot of books
-I am learning new things
-He is watching a movie
-We are visiting our grandmother
-They built a new house
-The baby is sleeping now
-I enjoy playing guitar
-She is drinking coffee
-He travels around the world
-I walk to school every day
-They are planting trees
-The teacher explained the lesson
-I like reading science fiction
-She bought a new laptop
-We are going hiking tomorrow
-He cleaned the entire room
-I always write in my journal
-They are eating dinner now
-The train is arriving soon
-He plays the violin well
-She is writing a story
-I love cooking pasta
-We are watching the sunset
-They painted the walls blue
-The cake smells delicious
-I am doing my homework
-She listens to music often
-He is drawing a picture
-We watched a movie yesterday
-They are making sandwiches
-I want to sleep early tonight
-The cat is chasing a mouse
-She is preparing breakfast
-He enjoys hiking in the hills
-We are playing a board game
-They visited the museum yesterday
-The flowers are blooming
-I saw a rainbow today
-She is practicing piano
-He waters the plants daily
-We are learning French
-They went to the zoo
-The children are laughing
-I bought a new phone
-She is designing a website
-He bakes cookies every weekend
-We painted the fence white
-They are studying for the test
-The bird is building a nest
-I like to read in bed
-She is working on a project
-He plays video games at night
-We made a chocolate cake
-They are dancing in the rain
-The sky looks clear today
-I wrote a poem yesterday
-She is fixing her bicycle
-He is reading a novel
-We built a snowman
-They are playing chess
-The movie was interesting
-I went shopping with my sister
-She is learning how to swim
-He is cleaning the car
-We are baking bread
-They celebrated a birthday
-The sun set behind the mountains
-I am visiting my friend
-She is walking her dog
-He is making a drawing
-We are watching a football match
-They are cooking lunch
-The book is very exciting
-I love going to the beach
-She is helping her brother
-He always drinks tea in the morning
-We are learning something new
-They went hiking in the forest
-The kids are playing outside
-I am reading a magazine
-She is sewing a dress
-He is playing the guitar
-We are enjoying the weather
-They are cleaning the garage
-The cake is in the oven
-I watched the sunrise today
-She wrote a short story
-He is painting a landscape
-We are solving a puzzle
-They planted flowers in the garden
-The baby is crawling fast
-I am fixing my computer
-She is decorating the room
-He is washing the dishes
-I watched the sunrise today
-She wrote a short story
-He is painting a landscape
-We are solving a puzzle
-They planted flowers in the garden
-The baby is crawling fast
-I am fixing my computer
-She is decorating the room
-He is washing the dishes
-You are reading a book
-The cat is sleeping on the mat
-Birds were singing in the trees
-He ate breakfast quickly
-We drank coffee this morning
-They walked to the park
-I am learning Spanish online
-She taught math yesterday
-He cooked dinner for his family
-My mother baked a delicious cake
-We cleaned the house together
-He is driving a new car
-She rode her bike to school
-They swam in the ocean last summer
-I listened to music while working
-He was thinking about his vacation
-The children are playing in the yard
-She dreamed about flying
-They are building a sandcastle
-He drew a picture of his dog
-I helped my neighbor move furniture
-She is working late tonight
-We studied for the exam all night
-They traveled to Europe last year
-I visited my grandparents on Sunday
-He bought groceries at the supermarket
-She sold her old car
-We opened the windows for fresh air
-He closed the shop early
-The dog is sitting by the door
-She stood up to greet the guests
-The kids jumped on the trampoline
-We laughed at his jokes
-The baby cried loudly
-She smiled warmly at me
-I am looking at the clouds
-He saw a deer in the forest
-We heard a strange noise outside
-She felt tired after the long day
-He smelled the freshly baked bread
-I tasted the soup carefully
-They are waiting for the bus
-She started her new job last week
-He finished his homework before dinner
-We are trying a new recipe tonight
-She uses her tablet every day
-He wore a blue suit to the meeting
-I carried the heavy boxes upstairs
-She pushed the door open gently
-He pulled the weeds from the garden
-The boy threw the ball high
-She caught the frisbee easily
-He cut the vegetables for the salad
-The plants are growing quickly
-The sun shone brightly all day
-It rained heavily yesterday afternoon
-Snow covered the ground this morning
-The wind blew strongly through the trees
-Birds flew south for the winter
-He fell off his bike but wasn't hurt
-The moon rose over the mountains
-The sun is setting behind the buildings
-She moved the furniture around
-We stayed home because of the storm
-He left the party early
-They arrived late for the movie
-I asked a question in class
-She answered the phone politely
-He called his friend to chat
-We sent postcards from our trip
-They received a package in the mail
-I met my colleagues for lunch
-She greeted everyone with a smile
-He thanked her for the gift
-We apologized for the mistake
-They agreed to the proposal
-He disagreed with the conclusion
-She promised to help tomorrow
-I suggested going to the beach
-He explained the process clearly
-She described her trip in detail
-We remembered his birthday
-He forgot where he put his keys
-I know the answer to that question
-She understands the instructions now
-He believes her story
-We hope for good weather this weekend
-She wished upon a star
-I want a cup of tea
-He needs a new pair of shoes
-They love spending time together
-The cat chased a mouse
-My friend is visiting from another city
-His sister plays the violin beautifully
-Her brother fixed the leaky faucet
-Our neighbors are having a barbecue
-Their parents went on vacation
-The teacher explained the lesson well
-The students are listening attentively
-The chef prepared a gourmet meal
-The artist is mixing colors on the palette
-The musician practiced the piano for hours
-The writer finished her novel
-The gardener watered the plants
-The mechanic is repairing the engine
-The sun provides light and warmth
-The moon influences the tides
-The stars twinkled in the night sky
-The wind rustled the leaves
-The rain nourished the dry earth
-The flowers bloomed in vibrant colors
-The trees offered shade from the sun
-The car needs gasoline
-The computer crashed unexpectedly
-The house felt cozy and warm
-The book tells an interesting story
-The movie had a surprising ending
-The song makes me feel happy
-I am feeling much better today
-She looked stunning in her new dress
-He sounded confident during the presentation
-The fabric feels soft to the touch
-The soup tastes a little salty
-The room smells like fresh paint
-We enjoyed the concert last night
-He doesn't mind waiting a few minutes
-It doesn't matter what they think
-She seems happy with the results
-He appeared calm despite the pressure
-I prefer coffee over tea
-They are walking along the beach
-He is running a marathon next month
-She sang her favorite song loudly
-We danced until midnight
-The children played hide-and-seek
-I learned something new today
-He taught his son how to ride a bike
-She is cooking pasta for dinner
-We baked cookies for the party
-He cleaned his room thoroughly
-She is driving carefully in the rain
-He rode the bus to work
-They swam across the lake
-I talked to my boss about a raise
-She listened patiently to his story
-He is thinking of changing careers
-We dreamed of a peaceful world
-They built a treehouse in the backyard
-She drew sketches in her notebook
-He helped an elderly woman cross the street
-I worked hard to achieve my goals
-She studied biology in college
-We traveled through South America
-He visited the museum yesterday
-She bought a souvenir for her friend
-They sold handmade crafts at the market
-He opened the gift excitedly
-She closed her eyes and made a wish
-The cat sat peacefully on the windowsill
-He stood at the edge of the cliff
-The dog jumped over the fence
-We laughed until our stomachs hurt
-The baby cried when her mother left
-She smiled, remembering a happy moment
-I looked up the definition online
-He saw his reflection in the water
-We heard the train approaching
-She felt a sense of accomplishment
-He smelled smoke coming from the kitchen
-I tasted the bitterness of the coffee
-They waited patiently in line
-She started painting the fence this morning
-He finished reading the newspaper
-We tried calling him several times
-She uses honey instead of sugar
-He wore sunglasses to protect his eyes
-I carried my passport carefully
-She pushed the heavy shopping cart
-He pulled the door shut behind him
-The children threw stones into the pond
-She caught a cold last week
-He cut his finger while cooking
-The flowers grew taller after the rain
-The stars shone like diamonds
-It rained lightly throughout the night
-Snow is predicted for tomorrow
-The wind blew the leaves off the trees
-The plane flew high above the clouds
-He fell asleep during the movie
-The sun rises earlier in the summer
-The river flows towards the sea
-She moved to a new apartment last month
-We stayed at a charming hotel by the lake
-He left his keys on the table
-They arrived just in time for the meeting
-I asked for directions to the library
-She answered all the questions correctly
-He called customer service about the issue
-We sent invitations for the wedding
-They received good news yesterday
-I met an old friend by chance
-She greeted the visitors warmly
-He thanked the host for the lovely evening
-We apologized for being late
-They finally agreed on a price
-He strongly disagreed with the policy
-She promised she wouldn't tell anyone
-I suggested watching a comedy
-He explained the situation to his boss
-She described the beautiful sunset
-We remembered to lock the door
-He forgot his umbrella at home
-I know how to fix this problem
-She understands complex mathematical concepts
-He believes in working hard
-We hope you can join us
-She wished him good luck on his exam
-I want to learn how to play the guitar
-He needs some rest
-They love hiking in the mountains
-The teacher is writing on the board
-My brother is studying engineering
-Her sister practices ballet every day
-The dog barked at the mailman
-The cat stretched lazily in the sun
-Birds are building a nest in the oak tree
-Children laughed while playing tag
-He is listening to a podcast
-We watched the parade go by
-They are planning a surprise party
-I am trying to eat healthier
-She is sketching a portrait
-He repaired the broken chair
-We decorated the Christmas tree
-They washed the car until it shone
-The baby took her first steps
-I updated my computer's software
-She arranged the flowers in a vase
-He organized his bookshelf
-We solved the crossword puzzle together
-They planted vegetables in their backyard
-The athlete trained rigorously for the competition
-The scientist conducted an experiment
-The chef tasted the sauce for seasoning
-The musician composed a new melody
-The writer revised her manuscript
-The gardener pruned the rose bushes
-The mechanic checked the tire pressure
-The sun disappeared behind a cloud
-The moon cast long shadows on the ground
-The stars seemed exceptionally bright tonight
-The wind howled around the house
-The rain tapped gently on the windowpane
-The flowers filled the room with fragrance
-The trees swayed in the breeze
-The car started after a few tries
-The computer is running slowly today
-The house needs a fresh coat of paint
-The book kept me engaged until the end
-The movie received excellent reviews
-The song evokes nostalgic memories
-I feel optimistic about the future
-She looked thoughtful for a moment
-He sounded annoyed on the phone
-The blanket feels warm and comforting
-The fruit tastes sweet and juicy
-The air smells clean after the rain
-We enjoyed walking in the quiet forest
-He doesn't mind doing the chores
-It doesn't matter which way we go
-She seems genuinely interested in the topic
-He appeared suddenly from behind the curtain
-I prefer walking to taking the bus
-They are strolling hand in hand
-He jogged five miles this morning
-She sang along with the radio
-We danced awkwardly at the wedding
-The children played board games all afternoon
-I learned a valuable lesson from that mistake
-He taught himself how to code
-She is cooking rice and beans
-We baked bread from scratch
-He cleaned the windows until they sparkled
-She is driving her kids to school
-He rode his motorcycle across the country
-They swam with dolphins on vacation
-I talked about my plans with my family
-She listened intently to the speaker
-He is thinking deeply about the problem
-We dreamed of winning the lottery
-They built a strong relationship over the years
-She carefully drew the architectural plans
-He helped his friend study for the test
-I worked overtime to meet the deadline
-She studied diligently every evening
-We traveled light with only backpacks
-He visited his hometown after many years
-She bought a beautiful scarf in Paris
-They sold their house and moved abroad
-He slowly opened the mysterious box
-She firmly closed the discussion
-The cat sat majestically on the armchair
-He stood proudly beside his artwork
-The puppy jumped playfully at my feet
-We laughed heartily at the comedian
-The baby cried softly in his crib
-She smiled knowingly at his excuse
-I looked directly into her eyes
-He saw a shooting star last night
-We accidentally heard their conversation
-She felt a sudden chill in the air
-He smelled the tempting aroma of coffee
-I carefully tasted the exotic fruit
-They waited anxiously for the results
-She unexpectedly started singing
-He finally finished the marathon
-We are trying desperately to find a solution
-She always uses recycled paper
-He wore a brightly colored tie
-I carried the sleeping child gently
-She pushed the button to start the machine
-He pulled his collar up against the wind
-The athlete threw the javelin impressively
-She skillfully caught the falling vase
-He neatly cut the paper along the line
-The sunflowers grew towards the sunlight
-The lighthouse shone across the dark sea
-It rained persistently for three days
-Fresh snow blanketed the entire town
-The autumn wind blew colder each day
-The eagle flew gracefully overhead
-He fell hard on the icy pavement
-The population rose steadily over the decade
-The tide is slowly setting out
-She moved quietly through the sleeping house
-We stayed longer than we intended
-He left without saying goodbye
-They arrived safely after the long journey
-I politely asked the waiter for the bill
-She quickly answered the email
-He called his parents weekly
-We sent a care package to our son
-They gratefully received the donation
-I accidentally met my former teacher
-She formally greeted the ambassador
-He sincerely thanked everyone for their support
-We humbly apologized for the inconvenience
-They unanimously agreed on the decision
-He fundamentally disagreed with the approach
-She solemnly promised to uphold the law
-I tentatively suggested a different plan
-He patiently explained the complex theory
-She vividly described her childhood home
-We clearly remembered the instructions
-He completely forgot about the appointment
-I barely know anything about astrophysics
-She fully understands the implications
-He firmly believes in second chances
-We sincerely hope everything turns out well
-She secretly wished she could go too
-I really want some ice cream right now
-He desperately needs a vacation
-They obviously love their new puppy
-The old clock ticked loudly in the hall
-A gentle breeze stirred the curtains
-The train whistle blew mournfully
-He hammered the nail into the wood
-She whispered a secret into his ear
-We watched the ship sail over the horizon
-They heard footsteps approaching the door
-I felt the warmth of the fireplace
-He carefully folded the letter
-She poured milk into her cereal
-We stirred the paint before using it
-They added sugar to their tea
-I peeled the potatoes for dinner
-He chopped onions with tears in his eyes
-She grated cheese over the pasta
-We roasted marshmallows over the campfire
-They boiled water for spaghetti
-I fried eggs for breakfast
-He grilled hamburgers in the backyard
-She spread jam on her toast
-We measured the ingredients accurately
-They kneaded the dough for the bread
-I rolled out the pastry thinly
-He decorated the cake with frosting
-She tidied up the living room
-We dusted the furniture
-They vacuumed the carpets
-I mopped the kitchen floor
-This is 400 Need 600 more
-
-He scrubbed the bathtub
-She polished the silverware 40
-You stopped this response
-I watched the sunrise today
-She wrote a short story
-He is painting a landscape
-"We are solving a puzzle
-They planted flowers in the garden
-The baby is crawling fast
-I am fixing my computer
-She is decorating the room
-He is washing the dishes"
-generate 1000 sentences into a txt file
-I watched the sunrise today
-She wrote a short story
-He is painting a landscape
-We are solving a puzzle
-They planted flowers in the garden
-The baby is crawling fast
-I am fixing my computer
-She is decorating the room
-He is washing the dishes
-You are reading a book
-The cat is sleeping on the mat
-Birds were singing in the trees
-He ate breakfast quickly
-We drank coffee this morning
-They walked to the park
-I am learning Spanish online
-She taught math yesterday
-He cooked dinner for his family
-My mother baked a delicious cake
-We cleaned the house together
-He is driving a new car
-She rode her bike to school
-They swam in the ocean last summer
-I listened to music while working
-He was thinking about his vacation
-The children are playing in the yard
-She dreamed about flying
-They are building a sandcastle
-He drew a picture of his dog
-I helped my neighbor move furniture
-She is working late tonight
-We studied for the exam all night
-They traveled to Europe last year
-I visited my grandparents on Sunday
-He bought groceries at the supermarket
-She sold her old car
-We opened the windows for fresh air
-He closed the shop early
-The dog is sitting by the door
-She stood up to greet the guests
-The kids jumped on the trampoline
-We laughed at his jokes
-The baby cried loudly
-She smiled warmly at me
-I am looking at the clouds
-He saw a deer in the forest
-We heard a strange noise outside
-She felt tired after the long day
-He smelled the freshly baked bread
-I tasted the soup carefully
-They are waiting for the bus
-She started her new job last week
-He finished his homework before dinner
-We are trying a new recipe tonight
-She uses her tablet every day
-He wore a blue suit to the meeting
-I carried the heavy boxes upstairs
-She pushed the door open gently
-He pulled the weeds from the garden
-The boy threw the ball high
-She caught the frisbee easily
-He cut the vegetables for the salad
-The plants are growing quickly
-The sun shone brightly all day
-It rained heavily yesterday afternoon
-Snow covered the ground this morning
-The wind blew strongly through the trees
-Birds flew south for the winter
-He fell off his bike but wasn't hurt
-The moon rose over the mountains
-The sun is setting behind the buildings
-She moved the furniture around
-We stayed home because of the storm
-He left the party early
-They arrived late for the movie
-I asked a question in class
-She answered the phone politely
-He called his friend to chat
-We sent postcards from our trip
-They received a package in the mail
-I met my colleagues for lunch
-She greeted everyone with a smile
-He thanked her for the gift
-We apologized for the mistake
-They agreed to the proposal
-He disagreed with the conclusion
-She promised to help tomorrow
-I suggested going to the beach
-He explained the process clearly
-She described her trip in detail
-We remembered his birthday
-He forgot where he put his keys
-I know the answer to that question
-She understands the instructions now
-He believes her story
-We hope for good weather this weekend
-She wished upon a star
-I want a cup of tea
-He needs a new pair of shoes
-They love spending time together
-The cat chased a mouse
-My friend is visiting from another city
-His sister plays the violin beautifully
-Her brother fixed the leaky faucet
-Our neighbors are having a barbecue
-Their parents went on vacation
-The teacher explained the lesson well
-The students are listening attentively
-The chef prepared a gourmet meal
-The artist is mixing colors on the palette
-The musician practiced the piano for hours
-The writer finished her novel
-The gardener watered the plants
-The mechanic is repairing the engine
-The sun provides light and warmth
-The moon influences the tides
-The stars twinkled in the night sky
-The wind rustled the leaves
-The rain nourished the dry earth
-The flowers bloomed in vibrant colors
-The trees offered shade from the sun
-The car needs gasoline
-The computer crashed unexpectedly
-The house felt cozy and warm
-The book tells an interesting story
-The movie had a surprising ending
-The song makes me feel happy
-I am feeling much better today
-She looked stunning in her new dress
-He sounded confident during the presentation
-The fabric feels soft to the touch
-The soup tastes a little salty
-The room smells like fresh paint
-We enjoyed the concert last night
-He doesn't mind waiting a few minutes
-It doesn't matter what they think
-She seems happy with the results
-He appeared calm despite the pressure
-I prefer coffee over tea
-They are walking along the beach
-He is running a marathon next month
-She sang her favorite song loudly
-We danced until midnight
-The children played hide-and-seek
-I learned something new today
-He taught his son how to ride a bike
-She is cooking pasta for dinner
-We baked cookies for the party
-He cleaned his room thoroughly
-She is driving carefully in the rain
-He rode the bus to work
-They swam across the lake
-I talked to my boss about a raise
-She listened patiently to his story
-He is thinking of changing careers
-We dreamed of a peaceful world
-They built a treehouse in the backyard
-She drew sketches in her notebook
-He helped an elderly woman cross the street
-I worked hard to achieve my goals
-She studied biology in college
-We traveled through South America
-He visited the museum yesterday
-She bought a souvenir for her friend
-They sold handmade crafts at the market
-He opened the gift excitedly
-She closed her eyes and made a wish
-The cat sat peacefully on the windowsill
-He stood at the edge of the cliff
-The dog jumped over the fence
-We laughed until our stomachs hurt
-The baby cried when her mother left
-She smiled, remembering a happy moment
-I looked up the definition online
-He saw his reflection in the water
-We heard the train approaching
-She felt a sense of accomplishment
-He smelled smoke coming from the kitchen
-I tasted the bitterness of the coffee
-They waited patiently in line
-She started painting the fence this morning
-He finished reading the newspaper
-We tried calling him several times
-She uses honey instead of sugar
-He wore sunglasses to protect his eyes
-I carried my passport carefully
-She pushed the heavy shopping cart
-He pulled the door shut behind him
-The children threw stones into the pond
-She caught a cold last week
-He cut his finger while cooking
-The flowers grew taller after the rain
-The stars shone like diamonds
-It rained lightly throughout the night
-Snow is predicted for tomorrow
-The wind blew the leaves off the trees
-The plane flew high above the clouds
-He fell asleep during the movie
-The sun rises earlier in the summer
-The river flows towards the sea
-She moved to a new apartment last month
-We stayed at a charming hotel by the lake
-He left his keys on the table
-They arrived just in time for the meeting
-I asked for directions to the library
-She answered all the questions correctly
-He called customer service about the issue
-We sent invitations for the wedding
-They received good news yesterday
-I met an old friend by chance
-She greeted the visitors warmly
-He thanked the host for the lovely evening
-We apologized for being late
-They finally agreed on a price
-He strongly disagreed with the policy
-She promised she wouldn't tell anyone
-I suggested watching a comedy
-He explained the situation to his boss
-She described the beautiful sunset
-We remembered to lock the door
-He forgot his umbrella at home
-I know how to fix this problem
-She understands complex mathematical concepts
-He believes in working hard
-We hope you can join us
-She wished him good luck on his exam
-I want to learn how to play the guitar
-He needs some rest
-They love hiking in the mountains
-The teacher is writing on the board
-My brother is studying engineering
-Her sister practices ballet every day
-The dog barked at the mailman
-The cat stretched lazily in the sun
-Birds are building a nest in the oak tree
-Children laughed while playing tag
-He is listening to a podcast
-We watched the parade go by
-They are planning a surprise party
-I am trying to eat healthier
-She is sketching a portrait
-He repaired the broken chair
-We decorated the Christmas tree
-They washed the car until it shone
-The baby took her first steps
-I updated my computer's software
-She arranged the flowers in a vase
-He organized his bookshelf
-We solved the crossword puzzle together
-They planted vegetables in their backyard
-The athlete trained rigorously for the competition
-The scientist conducted an experiment
-The chef tasted the sauce for seasoning
-The musician composed a new melody
-The writer revised her manuscript
-The gardener pruned the rose bushes
-The mechanic checked the tire pressure
-The sun disappeared behind a cloud
-The moon cast long shadows on the ground
-The stars seemed exceptionally bright tonight
-The wind howled around the house
-The rain tapped gently on the windowpane
-The flowers filled the room with fragrance
-The trees swayed in the breeze
-The car started after a few tries
-The computer is running slowly today
-The house needs a fresh coat of paint
-The book kept me engaged until the end
-The movie received excellent reviews
-The song evokes nostalgic memories
-I feel optimistic about the future
-She looked thoughtful for a moment
-He sounded annoyed on the phone
-The blanket feels warm and comforting
-The fruit tastes sweet and juicy
-The air smells clean after the rain
-We enjoyed walking in the quiet forest
-He doesn't mind doing the chores
-It doesn't matter which way we go
-She seems genuinely interested in the topic
-He appeared suddenly from behind the curtain
-I prefer walking to taking the bus
-They are strolling hand in hand
-He jogged five miles this morning
-She sang along with the radio
-We danced awkwardly at the wedding
-The children played board games all afternoon
-I learned a valuable lesson from that mistake
-He taught himself how to code
-She is cooking rice and beans
-We baked bread from scratch
-He cleaned the windows until they sparkled
-She is driving her kids to school
-He rode his motorcycle across the country
-They swam with dolphins on vacation
-I talked about my plans with my family
-She listened intently to the speaker
-He is thinking deeply about the problem
-We dreamed of winning the lottery
-They built a strong relationship over the years
-She carefully drew the architectural plans
-He helped his friend study for the test
-I worked overtime to meet the deadline
-She studied diligently every evening
-We traveled light with only backpacks
-He visited his hometown after many years
-She bought a beautiful scarf in Paris
-They sold their house and moved abroad
-He slowly opened the mysterious box
-She firmly closed the discussion
-The cat sat majestically on the armchair
-He stood proudly beside his artwork
-The puppy jumped playfully at my feet
-We laughed heartily at the comedian
-The baby cried softly in his crib
-She smiled knowingly at his excuse
-I looked directly into her eyes
-He saw a shooting star last night
-We accidentally heard their conversation
-She felt a sudden chill in the air
-He smelled the tempting aroma of coffee
-I carefully tasted the exotic fruit
-They waited anxiously for the results
-She unexpectedly started singing
-He finally finished the marathon
-We are trying desperately to find a solution
-She always uses recycled paper
-He wore a brightly colored tie
-I carried the sleeping child gently
-She pushed the button to start the machine
-He pulled his collar up against the wind
-The athlete threw the javelin impressively
-She skillfully caught the falling vase
-He neatly cut the paper along the line
-The sunflowers grew towards the sunlight
-The lighthouse shone across the dark sea
-It rained persistently for three days
-Fresh snow blanketed the entire town
-The autumn wind blew colder each day
-The eagle flew gracefully overhead
-He fell hard on the icy pavement
-The population rose steadily over the decade
-The tide is slowly setting out
-She moved quietly through the sleeping house
-We stayed longer than we intended
-He left without saying goodbye
-They arrived safely after the long journey
-I politely asked the waiter for the bill
-She quickly answered the email
-He called his parents weekly
-We sent a care package to our son
-They gratefully received the donation
-I accidentally met my former teacher
-She formally greeted the ambassador
-He sincerely thanked everyone for their support
-We humbly apologized for the inconvenience
-They unanimously agreed on the decision
-He fundamentally disagreed with the approach
-She solemnly promised to uphold the law
-I tentatively suggested a different plan
-He patiently explained the complex theory
-She vividly described her childhood home
-We clearly remembered the instructions
-He completely forgot about the appointment
-I barely know anything about astrophysics
-She fully understands the implications
-He firmly believes in second chances
-We sincerely hope everything turns out well
-She secretly wished she could go too
-I really want some ice cream right now
-He desperately needs a vacation
-They obviously love their new puppy
-The old clock ticked loudly in the hall
-A gentle breeze stirred the curtains
-The train whistle blew mournfully
-He hammered the nail into the wood
-She whispered a secret into his ear
-We watched the ship sail over the horizon
-They heard footsteps approaching the door
-I felt the warmth of the fireplace
-He carefully folded the letter
-She poured milk into her cereal
-We stirred the paint before using it
-They added sugar to their tea
-I peeled the potatoes for dinner
-He chopped onions with tears in his eyes
-She grated cheese over the pasta
-We roasted marshmallows over the campfire
-They boiled water for spaghetti
-I fried eggs for breakfast
-He grilled hamburgers in the backyard
-She spread jam on her toast
-We measured the ingredients accurately
-They kneaded the dough for the bread
-I rolled out the pastry thinly
-He decorated the cake with frosting
-She tidied up the living room
-We dusted the furniture
-They vacuumed the carpets
-I mopped the kitchen floor
-He scrubbed the bathtub
-She polished the silverware
-We did the laundry on Saturday
-They hung the clothes out to dry
-I ironed my shirts for the week
-He folded the clean towels neatly
-She made the bed every morning
-We took out the trash last night
-They sorted the recycling
-I swept the front porch
-He raked the leaves in the autumn
-She mowed the lawn yesterday
-We weeded the garden beds
-They pruned the hedges carefully
-I watered the thirsty plants
-He picked ripe tomatoes from the vine
-She harvested herbs for cooking
-We spread mulch around the trees
-They built a fence around the yard
-I repaired the broken gate
-He painted the shed a bright blue
-She cleaned the gutters before the rain
-We checked the mail when we got home
-They paid the bills online
-I answered a few important emails
-He made a phone call to his insurance company
-She scheduled a doctor's appointment
-We booked flights for our summer vacation
-They reserved a table at the restaurant
-I ordered pizza for dinner
-He picked up the dry cleaning
-She dropped off a package at the post office
-We went grocery shopping for the week
-They returned a book to the library
-I filled the car with gas
-He took his dog for a long walk
-She fed the cat before leaving
-We changed the water in the fish tank
-They groomed the horse patiently
-I practiced playing the piano
-He tuned his guitar before the performance
-She sang in the choir practice
-We rehearsed our lines for the play
-They attended a lecture on art history
-I visited an art gallery downtown
-He watched a documentary about wildlife
-She listened to an audiobook during her commute
-We played cards on a rainy afternoon
-They completed a jigsaw puzzle over the weekend
-I browsed the internet for news updates
-He scrolled through social media feeds
-She updated her blog with a new post
-We watched funny videos online
-They shared photos from their trip
-I charged my phone overnight
-He backed up his important files
-She organized her digital photos
-We learned a new software program
-They participated in an online forum discussion
-I took notes during the meeting
-He gave a presentation to the team
-She brainstormed ideas for the project
-We collaborated on the report
-They researched information for their assignment
-I proofread the document carefully
-He signed the contract after reviewing it
-She filed the papers alphabetically
-We made copies of the important documents
-They shredded old confidential files
-I attended a workshop on leadership skills
-He networked with professionals at the conference
-She mentored a junior colleague
-We celebrated a team success
-They resolved a conflict peacefully
-I set goals for the next quarter
-He tracked his progress towards his objectives
-She reflected on her performance
-We provided constructive feedback
-They received praise for their hard work
-I took a short break to stretch
-He drank water to stay hydrated
-She ate a healthy snack
-We went for a walk during lunchtime
-They practiced mindfulness meditation
-I listened to calming music
-He stretched his muscles after exercising
-She did yoga in the morning
-We went jogging around the neighborhood
-They lifted weights at the gym
-I swam laps in the pool
-He played basketball with his friends
-She joined a dance class
-We hiked up the mountain trail
-They cycled along the river path
-I packed my bag for the gym
-He tied his shoelaces tightly
-She warmed up before starting her workout
-We cooled down after the intense session
-They showered after exercising
-I felt refreshed and energized
-He felt sore but satisfied
-She slept soundly after the busy day
-We woke up early the next morning
-They watched the birds gather at the feeder
-I noticed the first signs of spring
-He observed the changing colors of the leaves
-She felt the cool autumn air
-We saw frost on the ground
-They heard the distant sound of thunder
-I smelled the rain before it started
-He tasted the sweetness of the fresh strawberries
-She touched the rough bark of the tree
-We admired the intricate pattern of the snowflake
-They gazed at the vastness of the ocean
-I wondered about the stars
-He pondered the meaning of the poem
-She imagined different possibilities
-We planned our route on the map
-They discussed their future plans
-I made a list of things to do
-He double-checked his calculations
-She compared prices before buying
-We chose the best option available
-They decided to start immediately
-I confirmed the reservation details
-He adjusted the settings on the camera
-She focused the lens for a clear picture
-We captured a beautiful moment
-They developed the film in the darkroom
-I edited the photos on my computer
-He printed his favorite pictures
-She framed the photograph elegantly
-We hung the artwork on the wall
-They admired the newly decorated space
-I rearranged the furniture for better flow
-He installed new lighting fixtures
-She chose curtains that matched the walls
-We laid down a new rug
-They added cushions to the sofa
-I lit a scented candle
-He played soft music in the background
-She prepared appetizers for the guests
-We set the table formally
-They chilled the wine before serving
-I greeted the arriving guests at the door
-He offered drinks and snacks
-She introduced people who didn't know each other
-We chatted about various topics
-They shared interesting stories
-I proposed a toast to the host
-He served the main course
-She passed the salad bowl around
-We enjoyed the delicious meal together
-They complimented the chef
-I cleared the plates after dinner
-He brought out the dessert
-She offered coffee or tea
-We lingered over conversation
-They thanked the hosts for the wonderful evening
-I helped clean up afterwards
-He stacked the dishes in the dishwasher
-She wiped down the counters
-We said goodnight and left
-They drove home carefully
-I locked the doors before going to bed
-He turned off all the lights
-She checked on the sleeping children
-We brushed our teeth
-They read a few pages of a book
-I set the alarm for the morning
-He drifted off to sleep quickly
-She dreamed vividly all night
-The alarm clock rang loudly
-We hit the snooze button once
-They finally got out of bed
-I stretched and yawned
-He went to the bathroom
-She splashed cold water on her face
-We got dressed for the day
-They chose their outfits carefully
-I combed my hair
-He shaved quickly
-She applied makeup lightly
-We went downstairs for breakfast
-They poured cereal into bowls
-I made toast and coffee
-He scrambled some eggs
-She squeezed fresh orange juice
-We ate breakfast while reading the news
-They discussed the plans for the day
-I packed lunches for the kids
-He gathered his work documents
-She grabbed her keys and wallet
-We said goodbye to the family
-They walked out the front door
-I waited for the elevator
-He hurried to catch the bus
-She drove through morning traffic
-We listened to the radio during the commute
-They arrived at their destinations
-The student entered the classroom
-The teacher greeted the class warmly
-He opened his textbook
-She sharpened her pencil
-We participated in the class discussion
-They took notes diligently
-I asked a clarifying question
-He worked on the math problems
-She wrote an essay for English class
-We conducted a science experiment
-They studied historical events
-I practiced Spanish vocabulary
-He sketched ideas for art class
-She rehearsed her lines for drama club
-The bell rang for lunch break
-We ate lunch with our friends
-They played games during recess
-I borrowed a book from the school library
-He returned his overdue library books
-She helped a classmate with homework
-School finished for the day
-We walked home together
-They took the school bus
-I had an after-school snack
-He started his homework right away
-She practiced the violin
-We watched cartoons for a little while
-They helped set the table for dinner
-The family ate dinner together
-I shared about my day at school
-He talked about his soccer practice
-She described the art project she finished
-We cleared the table after the meal
-They helped with washing the dishes
-I finished the rest of my homework
-He studied for an upcoming test
-She packed her school bag for tomorrow
-We watched a family movie
-They played a board game
-I read a bedtime story to my little sister
-He said goodnight to his parents
-She got ready for bed
-The city lights twinkled below
-A lone car drove down the empty street
-He gazed at the full moon
-She heard the crickets chirping outside
-We felt the gentle night breeze
-They saw a shadow move in the garden
-I closed the curtains tightly
-He checked that the doors were locked again
-She snuggled under the warm blankets
-We listened to the quiet sounds of the house
-They thought about the events of the day
-I slowly relaxed my body
-He took deep, calming breaths
-She focused on positive thoughts
-Sleep finally came peacefully
-The baker kneaded dough early in the morning
-Fishermen prepared their nets by the sea
-The farmer milked the cows at dawn
-A nurse checked on her patients
-The pilot prepared for takeoff
-A construction worker operated heavy machinery
-The chef chopped vegetables rapidly
-An editor reviewed the morning news articles
-The florist arranged a beautiful bouquet
-A programmer wrote lines of code
-The musician tuned her instrument carefully
-An athlete started her morning training
-The shopkeeper opened his store for the day
-A street cleaner swept the sidewalks
-The librarian shelved books quietly
-A taxi driver waited for a fare
-The park ranger patrolled the trails
-A scientist analyzed data in the lab
-The tailor measured fabric precisely
-A veterinarian examined a sick pet
-The writer stared at the blank page
-A judge presided over the courtroom
-The zookeeper fed the lions
-He whistled a cheerful tune
-She hummed softly to herself
-We tapped our feet to the rhythm
-They clapped enthusiastically after the performance
-I nodded in agreement
-He shook his head in disbelief
-She shrugged her shoulders indifferently
-We waved goodbye to our friends
-They pointed towards the tall building
-I gestured for him to come closer
-He bowed respectfully
-She curtsied gracefully
-We high-fived each other
-They hugged tightly before parting
-I patted his back reassuringly
-He held her hand gently
-She leaned her head on his shoulder
-We sat side-by-side on the bench
-They stood facing each other
-I knelt down to tie my shoe
-He crouched behind the bushes
-She balanced carefully on the beam
-We crawled through the narrow tunnel
-They skipped happily down the path
-I tiptoed past the sleeping baby
-He marched proudly in the parade
-She paced back and forth nervously
-We wandered aimlessly through the city
-They explored the hidden cave
-I climbed the steep hill
-He descended the stairs cautiously
-She slid down the snowy slope
-We rowed the boat across the lake
-They sailed into the sunset
-I steered the car around the corner
-He pedaled his bicycle energetically
-She pushed the stroller along the sidewalk
-We carried the groceries into the house
-They lifted the heavy box together
-I dragged the suitcase behind me
-He threw the frisbee for his dog
-She caught the baseball effortlessly
-We kicked the soccer ball back and forth
-They hit the tennis ball over the net
-I bounced the basketball on the court
-He swung the golf club smoothly
-She bowled a strike
-We shot arrows at the target
-They cast their fishing lines into the river
-I poured water into the glass
-He spilled coffee on his shirt accidentally
-She wiped the table clean
-We stirred the soup gently
-They mixed the ingredients in the bowl
-I spread butter on the bread
-He sliced the cheese thinly
-She grated carrots for the salad
-We peeled the oranges
-They squeezed lemons for lemonade
-I cracked eggs into the frying pan
-He whisked the batter until smooth
-She flipped the pancakes skillfully
-We baked muffins until golden brown
-They roasted chicken for Sunday dinner
-I grilled fish over charcoal
-He boiled potatoes until tender
-She steamed vegetables lightly
-We tasted the food for seasoning
-They added salt and pepper
-I served the meal while it was hot
-He chewed his food slowly
-She sipped her hot tea carefully
-We savored every bite
-They finished everything on their plates
-I complimented the cook
-He helped clear the dishes
-She loaded the dishwasher efficiently
-We washed the pots and pans by hand
-They dried the dishes with a towel
-I put away the clean dishes
-He wiped the crumbs off the table
-She swept the kitchen floor
-We took out the recycling bins
-They planned the menu for next week
-I made a grocery list
-He checked the fridge for ingredients
-She clipped coupons from the newspaper
-We drove to the supermarket
-They pushed the shopping cart down the aisles
-I compared different brands
-He chose fresh fruits and vegetables
-She picked out a loaf of bread
-We selected some meat from the butcher counter
-They found milk and eggs in the dairy section
-I grabbed a box of cereal
-He remembered to buy coffee beans
-She added snacks to the cart
-We waited in the checkout line
-They unloaded the groceries onto the belt
-I paid with my credit card
-He bagged the groceries carefully
-She carried the bags to the car
-We drove back home
-They unpacked the groceries
-I put the perishable items in the refrigerator
-He stored the dry goods in the pantry
-She organized the fruit bowl
-We felt satisfied with the stocked kitchen
-They decided what to make for dinner
-I started preparing the meal
-He preheated the oven
-She washed the vegetables thoroughly
-We followed the recipe instructions
-They measured the flour and sugar
-I melted butter in a saucepan
-He chopped the garlic finely
-She stirred the sauce occasionally
-We set the timer for baking
-They smelled the delicious aroma from the oven
-I checked if the food was cooked through
-He let the dish cool slightly
-She garnished the plate before serving
-We called the family for dinner
-They gathered around the dining table
-I said grace before the meal
-He passed the bread basket
-She poured water for everyone
-We discussed our day while eating
-They laughed at a funny story
-I enjoyed the shared family time
-He offered to help with cleanup
-She scraped the leftovers into a container
-We rinsed the plates before washing
-They talked while doing the dishes together
-I dried my hands on a towel
-He put on some relaxing music
-She curled up on the sofa with a book
-We watched the evening news on television
-They played a quick game of chess
-I checked my email one last time
-He tidied up the living room slightly
-She watered the houseplants
-We prepared coffee for the morning
-They locked the back door securely
-I turned down the thermostat
-He checked his phone for messages
-She laid out her clothes for the next day
-We went upstairs to get ready for bed
-They changed into their pajamas
-I washed my face and brushed my teeth
-He flossed carefully
-She applied moisturizer
-We dimmed the bedroom lights
-They plumped up the pillows
-I pulled back the covers on the bed
-He climbed into bed tiredly
-She read for a few minutes
-We said goodnight to each other
-They turned off the bedside lamp
-I listened to the rain outside
-He focused on his breathing
-She reviewed the day in her mind
-We slowly drifted into sleep
-The wind whispered through the pines
-A lone owl hooted in the distance
-He built a model airplane meticulously
-She knitted a scarf with colorful yarn
-We assembled the new bookshelf
-They solved a Sudoku puzzle
-I practiced calligraphy with ink and pen
-He carved a small wooden figure
-She arranged photos in an album
-We learned origami folds
-They painted ceramic mugs
-I tried writing a poem
-He composed a short piece of music
-She designed a logo for her friend
-We brainstormed names for the new pet
-They planned a themed party
-I researched potential travel destinations
-He compared flight prices online
-She looked for hotel recommendations
-We created an itinerary for the trip
-They learned basic phrases in a foreign language
-I packed my suitcase efficiently
-He renewed his passport
-She bought travel insurance
-We notified the bank about our travel plans
-They arranged for pet care while away
-I confirmed the airport shuttle
-He set multiple alarms for departure day
-She double-checked her travel documents
-We arrived at the airport early
-They checked in their luggage
-I went through security screening
-He waited at the departure gate
-She bought a magazine for the flight
-We boarded the airplane when called
-They found their seats and stowed their bags
-I fastened my seatbelt
-He listened to the safety instructions
-She looked out the window as the plane taxied
-We felt the engines roar during takeoff
-They watched the ground recede below
-I saw clouds floating outside
-He read his book during the flight
-She watched an in-flight movie
-We ate the meal served by the attendants
-They tried to sleep for a while
-I felt the plane begin its descent
-He saw the city lights approaching
-She prepared for landing
-We felt the gentle bump as the plane touched down
-They applauded the successful landing
-I gathered my belongings
-He waited patiently to disembark
-She followed the signs towards baggage claim
-We located our suitcases on the carousel
-They passed through customs smoothly
-I found the exit to the arrivals area
-He hailed a taxi outside the terminal
-She gave the driver the hotel address
-We looked at the unfamiliar city streets
-They arrived at the hotel and checked in
-I received the room key
-He took the elevator up to their floor
-She opened the door to the hotel room
-We unpacked our clothes
-They freshened up after the long journey
-I looked at the city map
-He decided where to go first
-She put on comfortable walking shoes
-We left the hotel to explore
-They walked through bustling market streets
-I admired the local architecture
-He tried some street food cautiously
-She took many photographs
-We visited a famous landmark
-They learned about the history of the place
-I bought souvenirs for family and friends
-He practiced using local phrases
-She observed the daily life of the residents
-We found a nice restaurant for dinner
-They ordered local specialties
-I enjoyed the authentic cuisine
-He paid the bill in local currency
-She felt tired but happy after the first day
-We returned to the hotel for the night
-They planned the next day's activities
-I called home to check in
-He sent postcards to his loved ones
-She wrote in her travel journal
-We slept well in the comfortable hotel bed
-The alarm woke them for another day of adventure
-They had breakfast at the hotel cafe
-I consulted the tour guide book
-He bought tickets for a museum
-She spent hours admiring the exhibits
-We attended a cultural performance
-They took a boat trip on the river
-I relaxed on a park bench
-He watched street performers entertain the crowd
-She browsed in quaint little shops
-We discovered a hidden gem off the main path
-They enjoyed the sunset from a viewpoint
-I tried speaking with locals
-He learned a few new words
-She felt immersed in the culture
-We navigated the public transport system
-They got slightly lost but found their way
-I found the experience enriching
-He appreciated the different perspective
-She treasured the memories being made
-We captured the moments in photos and thoughts
-The trip continued with new discoveries daily
-They visited ancient ruins
-I swam in the clear blue ocean
-He hiked through a lush rainforest
-She tasted exotic fruits
-We learned about different traditions
-The end of the vacation approached
-They packed their bags reluctantly
-I checked out of the hotel
-He confirmed the return flight details
-She took one last look at the view
-We traveled back to the airport
-They reflected on the amazing journey
-I felt grateful for the experience
-He looked forward to being home
-She missed her own bed
-The return flight seemed quicker
-We landed back in our home city
-They collected their luggage
-I felt the familiar air
-He greeted family waiting at the airport
-She shared stories immediately
-We drove home tired but content
-They unpacked and started laundry
-I looked through the photos nostalgically
-He planned to frame the best ones
-She returned to her daily routine
-We incorporated some new perspectives
-They appreciated their home more
-I started planning the next adventure
-He read a bedtime story
-She watered the drooping plant
-We listened to the birds chirp merrily
-They watched the clouds drift lazily
-I felt the warm sun on my skin
-He smelled the freshly cut grass
-She tasted the sweet watermelon juice
-We saw a rainbow after the storm
-They heard the waves crash on the shore
-I built a small dam in the stream
-He skipped stones across the water
-She collected colorful seashells
-We made sand angels on the beach
-They flew a kite high in the wind
-I gazed at the starlit sky
-Life continued with simple moments
+No one has ever been able to do it
+Have you ever seen him
+He looks much better now
+Up to now they have worked very hard
+Up to now I've never been abroad
+A visitor has kept me busy till now
+He'll be a good husband
+If I were rich, I would go abroad
+Have a little patience with what you're doing
+I have only just begun
+There's very little pure blood in any nation now
+Now notebook computers are as common as lunch boxes
+Now musicians include issues such as human rights and environmental pollution
+It was now a race against time
+Now that I have a job, I can be independent of my parents
+The war was now over
+Now the President is nothing but a lame duck
+It is time not only to equalize men's and women's wages, but also to equalize responsibility for housework
+Japan must take over that role now
+Now he has nothing to live for
+He still passes as a college student now
+Nothing but your love can save her now
+It is now necessary to add another rule
+The store is making a mark
+Studying abroad is very common now
+A bad cold is going about now
+It is raining hard now
+It is raining now
+Can you go to the movie now
+We just arrived at the station
+Now I am enjoying my new life style
+If you became blind suddenly, what would you do
+What is popular now
+What are you doing now
+Can you imagine what I am thinking now
+Have you got the time
+What's the time? My watch is wrong
+This summer we had an unusual amount of rain
+Look at the girl who is now singing
+I cast aside my chains
+This would be a favor, which I would be pleased to return at any time
+This is the last game
+I'll forgive you just this once
+I will side with you just this once
+This time it seems as if he is telling the truth
+Let me go just once
+I will have been to New York twice this time
+Everybody blows it once in a while. It's better not to obsess on it
+Now that the project has come to an end, I feel like I've finally come to a resting-place
+The rain is radiologically inactive this time
+This experience will be invaluable as a way of improving the way I study English
+The last examination was very difficult
+Making this matter public would have an effect on our sales, so we're going to overlook it this once
+This book is one of the poet's best works
+Our latest results are the fruit of his furious efforts
+The last election was such a hot contest that several ex-ministers lost
+I'm going to keep track of all the expenses on this trip
+I feel I was able to get back to nature on this trip
+Give up on this one. You're wasting your time
+We had expected that you would succeed this time
+You cannot fail this time
+I am not sure of winning the game this time
+I'm afraid I can't make it at that time
+This time Bob is likely to win
+I'll excuse your carelessness this time
+Let me off the hook this time, please
+Will you get me off the hook this time
+I can't make it this time
+I'll let it go this time
+This is a special occasion
+This time my goal is Paris
+Her latest album is a tour de force. It even has a storyline
+Now you're flying over the Alps
+We have two examinations during this term
+I'm taking Spanish this semester
+I have one textbook for each class that I have this term, so it is very heavy
+What are you going to take this semester
+Are you taking politics this semester
+I seem to have run out of steam this term
+Our surplus has swelled by nearly ten percent in this quarter
+Must I come home now
+I feel like crying now
+The educational system is now under review
+What you say now isn't consistent with what you said before
+May I come and see you now
+You must bear in mind what I've just said to you
+The revised timetable will go into effect on the 5th of this month
+I will stay here all this month
+I'm quitting my current job as of the end of the month
+I've already spent all my pocket money for this month
+I forgot to pay my rent this month
+Come to my office at the end of this month
+The number of the people working in this city will be more than one thousand by the end of this month
+Please wait until the end of this month
+Living costs this month are lower than those of last month are
+Steel production will increase 2% this month from last month
+My eyes popped out when I looked at my phone bill this month
+Sales have been off this month
+We will have lived here for ten years at the end of this month
+I have a little money this month
+I'm going to Paris next month
+We've had a lot of rain this month
+We are having an international trade fair this month
+We are in the black this month
+There were two murders this month
+It's been hot this month, but today's an exception
+My salary was high this month
+Publication of this month's issue will probably be delayed one week
+I've decided to quit my job at the end of this month
+Come to my house at the end of this month
+You are to finish this work by the end of this month
+There is only a poor market for silk now
+I am just warming up now
+Don't draw a hasty conclusion from what you see now
+I take back what I said
+Please accept my apologies for what I said just now
+From now on, I'll try to help you with the work
+The number of students who specialize in biology will increase from now on
+We look forward to working more closely with you in the future
+I hope that your future activities will expand our relationship with your firm
+I hope that you will continue to favor us with your support
+Please continue your favors towards us
+You must pay attention to every minute detail from now on
+I hope the new plan will work out satisfactorily
+Further investigation will offer many opportunities to obtain more valuable knowledge of the ocean
+The tax reform will not touch the banking industry
+You can count on us for better service in the future
+Therefore, they cannot catalyze deregulation without external pressure
+I'll try not to be late in the future
+In future, be more careful with your money
+Study harder from now on
+From now on, I'm going to say what's on my mind
+In the future, you have to get here on time
+I hope we will be able to keep in touch
+Have you given up smoking for good and all
+You never can tell what is going to happen
+You must be careful from now on
+Please consider us in the future for all your travel needs
+For you to come out and say that kind of thing now would just be pouring oil on the fire
+It is too late to repent
+Tom will be watching television if you visit him now
+It's warm for this time of year
+You have to watch out for avalanches at this time of the year
+London must be cold now
+Don't come to me now with that. You should have said something when it originally happened
+It is all up with him by this time
+She will be there by now
+If you try your best now, happiness will come to you
+I'll add the finishing touch
+The cherry blossoms are at their best now
+I can't get away from work now
+Shall we begin now
+What we need now is a rest
+In my neighborhood, houses are now being built one after another
+I don't have the letter on me now
+Now I understand that my mother was only trying to be polite in public
+I will lend you what little money I have now
+If you try to defend the seniority-based corporate escalator these days all you'll get is flak from younger employees
+Now is the time I got to speak out
+I wish I were young
+We are shorthanded now
+I'm not available right now
+What are you learning at school
+What have you been doing this week
+What movies are playing this week
+I already have something planned for Friday, so I won't be able to make it to the drinking session
+Today week I'll be in England
+You must do it by the end of this week
+You are supposed to hand in the homework by the end of the week
+Do you have anything on for this weekend
+I've got a lot of things to do this week
+I have been very busy this week
+We have had fine weather this week
+I worked all this week
+I've been on the go all this week
+I have been busy this week
+With so many people absent this week, we weren't able to complete the project
+I've eaten a great deal of food this week
+Where have you been this week
+Are there any good films on this week
+Hamburgers have gone up this week
+This is Fire Prevention Week
+This week the cherry blossoms in the park are in full bloom
+I have done much writing this week
+This week I had three midterms
+I'm very busy this week
+I think I'll brown bag it this week
+I hoped to have finished it by this week
+Mary is sitting up late this week to prepare for her finals
+She promised that she would pay me this week, but she didn't keep her word
+Why don't we go to the mountains this weekend
+Could you lend me some money until this weekend
+Tell me something important you learned this weekend
+We're having a three-day weekend this week
+I can't afford to go to the onsen this weekend. I'm broke
+I have nothing on this weekend
+We'd like you to finish the job by the end of this week by all means
+You are supposed to hand in the report by the end of this week
+We have enough food now
+You should do your homework now
+You may as well leave now
+It is too late to go out now
+It's impossible to go out now
+I'm leaving now
+May I leave now
+Unless you start now, you'll be late
+Start now, and you will get there in time
+It is convenient for us to start now
+If you start now, you will get there in time
+Will we be in time for the plane if we leave now
+Tonight, the King of Hell returns
+What is the most popular movie now
+Have you been to Grandma's Table which is very popular now
+What's currently hot
+Many improvements have been made since this century began
+Our century has seen a notable increase of knowledge
+By the end of the century, the earth will have experienced a dramatic increase in temperature
+I'm at Narita Airport right now
+It is his favor to be alive now
+Whoever calls now, tell him I'm not in
+A traffic accident took place this morning
+This morning, I heard the great news of the new arrival in your family
+If I had eaten breakfast this morning, I would not be hungry now
+Did you have breakfast this morning
+I saw a group of foreigners on my way to school this morning
+I was called in for jury this morning, and I actually have to serve on a case
+He looked much better this morning than yesterday
+She bought a loaf of bread this morning
+The man lent me two books this morning
+I have not had anything to eat since this morning
+It has been raining on and off since this morning
+It has been snowing since this morning
+The power has been cut off since this morning
+I have read three books since this morning
+I brought a jacket because it was quite cool this morning
+This morning Tom said that his sister was still ill in bed
+It was not till this morning that it stopped raining
+The launch, which had been scheduled for this morning, was postponed because of the illness of shuttle Commander John Creighton
+How are you feeling this morning
+From the telecast this morning, I have learned to my shock that a big fire hit your area
+It was ten degrees below zero this morning
+Have you read the leading article in today's paper
+Did you feel the earthquake this morning
+I'm e-mailing to follow up on our phone conversation this morning
+He got up an hour early this morning
+I woke up at five this morning
+I got up at seven this morning
+This morning I got up an hour earlier than usual
+It's pretty hot this morning
+I had tea instead of coffee this morning
+I have a lot of things to do this morning
+You look very happy this morning
+It is very cold this morning
+It was very cold this morning
+I have a good appetite this morning
+The bus is very crowded this morning
+It is terribly hot this morning
+It's fine this morning and I feel like a walk
+You've worked hard this morning, Simon
+This morning I got up at four so as to be in time for the first train
+Although it looked like rain this morning, it has turned out fine
+When did you get up this morning
+The air feels cold this morning; winter is approaching
+Cold this morning, isn't it
+I feel cold this morning
+This morning, I left for school without washing my face
+The temperature has fallen below zero this morning
+I'm feeling good this morning
+How about eating out this morning for a change
+The air feels somewhat cold this morning
+Those mountains over there have turned white this morning
+There was a keen frost this morning
+This morning it was much cooler than yesterday morning
+You should take an umbrella with you this morning
+I feel like going for a walk this morning
+I don't feel like going out this morning
+I hope everything will turn out well in the end
+I had a little fever this morning
+This morning I got up too late to have breakfast
+We had a heavy frost this morning
+I feel good this morning
+It was so cold this morning that I left my coat on
+Warm this morning, isn't it
+I didn't have breakfast this morning
+This morning the train was so crowded that I couldn't find a vacant seat and had to stand the whole way
+Since the road is wet this morning, it must have rained last night
+It is especially cold this morning
+I was in such a hurry this morning that I went out leaving the TV on
+You seem to be depressed this morning. What's the matter
+Windy this morning, isn't it
+I got a lot of mail this morning
+It's cool this morning, isn't it
+The thermometer stood at three degrees below zero this morning
+It was below zero this morning, but I cycled to school
+We had a history quiz this morning
+Did you practice the piano this morning
+I ran into an old friend of mine this morning
+A Mr Brown came this morning
+The words Dr. Hawking was choosing this morning would be printed out and sent to the publisher of his book
+This morning I missed the train I usually take
+Did you see him at the station this morning
+I awoke this morning to find the summit of the mountain covered with snow
+Did you feed the dog this morning
+We were stuck in heavy traffic this morning
+My father had already finished breakfast when I got up this morning
+This morning I went to the airport in order to see my cousin off
+I went to a park this morning
+This morning I got a telegram from home saying that my father had been suddenly taken ill
+The man we saw this morning was Mr Green
+My car broke down this morning and won't be repaired until Friday
+I met him by chance on the train this morning
+We had snow this morning
+Somebody came to see you this morning
+I wish the subway wasn't so crowded every morning
+There was an earthquake this morning
+The ground was covered with frost this morning
+There is a reason to be late this morning
+This morning the weather was so bad that I had to take a taxi
+What happened to her this morning
+I drank a glass of milk this morning
+When I woke up this morning, both of my parents had gone to work
+When I awoke this morning, I felt hungry
+There was a weak earthquake toward dawn this morning
+So it is being repaired at the moment
+Do you know the man whose house we have just passed
+The street is free from snow now
+Can you make sashimi out of this fish I just caught
+All Sadako could do now was to make paper cranes and hope for a miracle
+Join now and pay nothing for a whole year
+I'll make up for it
+It will be one year before I see you again
+I'm looking forward to meeting with you the next time I visit your town
+I'll have visited Canada twice if I go there again
+The new teacher is more like a friend than a teacher
+I'll bring my sister when I come next time
+I'll try not to make mistakes next time
+I am right for once
+I will not let her escape this time
+You must let me know when you come here next time
+Next time I visit San Francisco, I'd like to stay at that hotel
+I will have joined the ski tour five times when I join it again
+I'll overlook your conduct this time
+For once, Sue came to the meeting on time
+I will give him another chance
+I will overlook your lateness this time
+I really must buy that radio next time I am in New York
+How will you spend the coming three-day holiday
+Prof. K is going to be a major attraction at this event, right? I can hardly wait
+What shall we do on your next days off
+The new TV drama is quite interesting
+Will you go on the next bus trip
+The new picture has made a record breaking hit
+The results for the English exam this time were very good
+You will be able to swim well next summer
+I'll attend the next meeting
+Do you like the new school better
+Where are you going on your vacation
+This holiday isn't much fun - we should have gone home
+This agreement was confirmed by three companies
+You must put up with your new post for the present. I'll find you a better place one of these days
+I will have finished this task by next Friday
+To my great relief, her new work of art added to her reputation
+She will have been in hospital for a month next Monday
+The next holiday falls on a Sunday
+My new job is harder than my old one
+Are you pleased with your new job
+There's less to do in this job than the last one
+The new mayor is well spoken of by the citizens
+After the incident I came to have a higher opinion of him
+The new secretary types faster than the old one
+Will you put us up for the weekend
+In our next line of business let's make it our strategy to win by losing
+The new novel added greatly to his reputation
+The new supervisor? He's not very original - pretty much like the rest
+George is very enthusiastic about his new job
+I like the new guy. He's not afraid to take on challenging work
+Next Wednesday will be fine
+Do you have anything next Wednesday
+This tax is applied to all private-sector enterprises
+Have you decided on a name for your new baby
+The sitting government is likely to win in the coming election
+I don't plan to vote at the upcoming election
+How about playing tennis next Saturday
+I'm leaving for Chicago next Saturday morning
+How about next Saturday
+We suggested to her that we should go on a picnic the following Sunday
+Can I go hiking next Sunday
+Won't you come to my house next Sunday
+We are going to mount a hill near our school this Sunday
+I leave here at ten-thirty next Sunday
+I will teach you how to skate next Sunday
+Please come and see me next Sunday by all means
+Will you take us for a drive next Sunday
+Do you have any previous appointments next Sunday
+Have you chosen what to do next Sunday yet
+I'm getting married next Sunday
+Remember to go fishing with me this coming Sunday
+This Sunday let's take a joy ride and see where we end up
+How about going surfing at Hayama next Sunday if it is fine
+An oratorical contest will be held next Sunday
+What about next Sunday
+I'll set aside next Sunday for a picnic with my family
+The new secretary types about 70 words per minute
+The new secretary doesn't strike me as efficient
+I don't know why it took me so long to get over my cold this time
+This cold has knocked me for a loop
+The colds that are about at the moment are not serious
+We got to know each other rather well on our recent trip
+Our next trip is for pleasure, not for work
+It seems that this time I'm the man behind the eight ball
+It's your turn to drive
+This time you should do it by yourself
+What is the child up to now
+When will you next visit
+I'll try not to disappoint you next time
+She just can't have the nerve to lift it up now
+Which side is winning this time
+I just hope nothing goes wrong this time
+What are you going to play
+What shall I do next
+It is our turn to laugh
+This time, I'll check, double-check and check again
+This time you must go there
+Now it's your serve
+I'll let you off this time, but I don't ever want to catch you stealing again
+Now put your hands in your pockets
+It's my turn to drive next
+I was asked a question in my turn
+I must return his call
+This time it does not fail
+I will go there on foot or by bicycle next time
+We'll get it this time
+This time he dressed down, having realized that the smart suit would be out of place
+This time he has succeeded
+Bring your sister next time
+If you telephone her again, that'll be the last straw
+How about a rain check
+Please drop in to see us next time you come to London
+Next time I see you, please give me your answer
+We've got some new business coming in and I want to discuss it with you. Do you mind getting involved
+Drop in and see us when you're next in Kobe
+Drop in and see us when you're next in Tokyo
+I guess it will be a long time before I can return to Japan
+I don't know when he'll come again
+Next time you see her, give her my best wishes
+Next time you come to see me, I will show you the book
+Come and see us sometime
+Please mail this letter on your next trip to the post office
+When you come next time, bring your brother
+It's not crowded at all today. This is the least crowded time of all
+Today everyone regards education as a right for all
+Today most young people can ski
+We have an examination in English today
+Today we stand at a critical point in history
+Were you on time for work today
+Today, the temperature rose as high as 30 degrees Celsius
+It is difficult to keep abreast of the international situation these days
+We have a lot of social problems to think about today
+Today, I bought ten books in all
+Have you a dictionary today
+May I use your car today
+We had a quiz today
+Today there seems to be a tendency to make little of human relations
+Today, one of every seven people in Western Europe is classified as elderly
+Today, many people receive higher education
+Many men nowadays seem to have the feeling that in vast modern societies there is nothing of importance that the individual can do
+I'll look around the city today
+It is regrettable that young Japanese today should show little interest in the traditional culture of their country
+He is being very kind today
+He interviewed the suspect today
+If you go to a baseball game today, sellers are walking around with hot-water tanks
+Today I walked 10 kilometers
+We've driven enough for one day
+I'm sorry I can't go with you today
+I wish I could go with you today
+I'm going to clean your bedroom today
+Are you busy today
+Industry as we know it today didn't exist in those days
+I regret that I can't come today
+I'm sorry I wasn't able to see you when you came by today
+Today the ozone layer is thinning
+I went to a musical with my favorite actor today. He's the one must-see for this year
+May I call on you today
+For a full day from today please
+I'll mail this letter today
+This program is going to focus on computer hacking issues today
+There is a big movement today to recycle trash
+I have a lot of assignments to do today
+I'll apply for the job today
+Just for this once, let's not have an argument
+This is the fifth consecutive day of decline of stock prices
+Never put off till tomorrow what you can do today
+Today pilot fatigue seems more likely
+Today, to send a telegram in the States to anywhere in the world, all you have to do is to give the message over the telephone
+More and more women have their own careers and are economically independent of their husbands
+Today, even white-collar workers are confronted with great hardships
+Today, you must have a photograph in your passport
+Today, more and more people are changing jobs in order to get a better salary and higher social status
+Today, through radio and television, mass advertising can reach millions of people at a time with its messages
+Handmade goods are very expensive nowadays
+Nowadays, commuters take traffic jams for granted
+Today she can do many things humans can do with language
+Today only 10 percent is covered
+Today we have more than three times as many vehicles as on the roads in 1950
+Nowadays many people live to be over seventy years old
+Nowadays there are railways all over England
+Nowadays few people can afford to employ a maid
+It is an advantage today to have a knowledge of computers
+Today no one can imagine a life without television
+Fewer students study German today than before
+Nowadays, almost every home has one or two televisions
+Nowadays freedom of speech is taken as a matter of course
+Today, we can tell how the weather will be with a high degree of accuracy
+Cars are now available in a wide range of prices
+Nowadays the young take no care of the old
+It is not easy to be an umpire today
+Today you can't be content with just earning a living
+Nowadays there is a close relationship between foreign relations and domestic affairs
+Today, paper is used in quantity every day
+Nowadays more and more people prefer country life to city life
+Nowadays, there are still a few groups of people in different parts of the world who do not have permanent homes
+Where will you have lunch today
+You can come and get it today
+Only today did I know the details of the matter
+Today's performance of the ABC Symphony Orchestra fell short of my expectations
+Who's the DJ today
+I owe what I am solely to both my parents
+You're very stylish
+What is today's recommendation
+I lost my notebook today
+At lunchtime today, our usual restaurant was closed because of a funeral in the family
+How are you feeling today
+Which would you like
+Germany of today is not what it was ten years ago
+Today's party was really lively, wasn't it
+Who was in charge of today's party
+Today's party is informal
+I hope today's ball game won't be canceled
+At today's meeting almost everybody backed my plan
+People will fry to a crisp in the sun today
+Today's rate is 140 yen to the dollar
+What's today's exchange rate
+What is the exchange rate today
+I am not satisfied with my performance today
+I put in a good word for my friend at today's meeting
+You're looking snappy today
+Today's school does no poorer a job than it used to
+Are you going to do your homework this afternoon
+Would you like to tea with us this afternoon
+He kept me waiting there for more than an hour this afternoon
+I am seeing Mr Brown at his office this afternoon
+I am going to do my homework when I get home this afternoon
+I intend to study this afternoon after I get back home
+We leave for Karuizawa this afternoon
+Come to my house this afternoon
+She shall water the garden this afternoon
+I would like to see my art teacher this afternoon
+I am able to fix the sink this afternoon
+I am supposed to meet her at three this afternoon
+I should like to see you this afternoon
+May I come see you this afternoon
+Can I come to you this afternoon or tomorrow afternoon
+I don't think I shall get through all this work this afternoon
+We saw the sights of the city this afternoon
+How about playing golf this afternoon
+I have quite a little work to do this afternoon
+Let's play tennis this afternoon
+What do you say to playing tennis this afternoon
+How about playing tennis this afternoon
+She'll be up and around this afternoon
+It will be fine this afternoon
+Will you kindly telephone me this afternoon
+Please come here between two and three this afternoon
+I enjoyed the conversation we had this afternoon
+I was asleep from one to four this afternoon
+It was very hot this afternoon
+I do not think it will rain this afternoon
+Are you free this afternoon
+I'm going to prepare for the term examination this afternoon
+I will be busy this afternoon
+I managed to get a hold of him this afternoon
+I am going to see the doctor this afternoon
+I will go to the doctor this afternoon
+It may rain this afternoon
+I don't think it will rain this afternoon
+Can I go swimming this afternoon
+I'll see you again this afternoon
+He requested that I come here again this afternoon
+Bring your essay to me this afternoon
+Look after the children this afternoon
+There are many people to come this afternoon
+The Tanakas are visiting us this afternoon
+She will be coming to see me this afternoon
+My father is free this afternoon
+Many happy returns of the day! Happy birthday
+Do you have any tickets for today's performance
+Today's minimum temperature was 3 °C
+So much for today's work
+We have finished the work for today
+I owe what I am today to my father
+Now my income is twice what it was two years ago
+I owe what I am today to my parents
+Your exam today will be very significant for your future
+Today's game will be a crucial battle; the result will be decisive
+As today's accident is very serious, I take it seriously
+Today's ceremony marks the 100th anniversary of our school
+I read it in today's edition
+What do you think about young people today
+It is said that the younger generation today is apathetic
+Some young people today are none the wiser for their university education
+So much for today's lesson
+There were quite a few students absent from class today
+You must take an interest in current events
+You won't find much news in today's newspaper
+Today's paper contains nothing of importance
+There is nothing interesting in the newspaper today
+Today's paper says that another typhoon is on its way
+Today's paper reports that the premier has given up the idea of visiting America
+According to today's paper, there was a fire in the city
+According to today's paper, there was a big earthquake in Chile yesterday
+According to today's paper, there was a fire in this town last night
+Today's paper says that a typhoon is coming
+Today's paper says that a big typhoon is approaching
+Is there any special news in today's paper
+I've not read today's paper yet
+I have already read today's paper
+Where is today's paper
+Have you finished reading today's paper yet
+Show me today's paper
+Bring me today's paper
+Bring me today's paper, please
+The present world owes its convenient life to petroleum
+The world today needs to advance its production of food
+The current political situation is not very stable
+Life today is fast-moving and complex
+Nowadays young men are apt to make light of learning
+Tickets for today's game sold like hot cakes
+There's a little black spot on the sun today
+This morning it cleared up
+According to today's morning paper, the condemned criminal committed suicide
+Today's breakfast was dried mackerel and miso soup
+How is the weather today
+Today's weather forecast says that it is likely to be fine tomorrow
+Today's weather forecast proved right
+Today's land problems are the product of years of neglect by successive governments
+Stock prices were mixed on the Tokyo market today
+Have you written in your diary yet today
+Technological progress has made Japan what she is
+Japan today is not what it was even ten years ago
+Japan is today considered to be one of the greatest economic powers of the world
+His behavior is very odd today
+She looks very happy today
+She was cool toward me today
+Today's play really moved me
+Let's continue with the lesson for today
+Are there any letters for me in today's mail
+It will be ready by six this evening
+I've got another commitment this evening
+We can deliver it this evening
+I'm seeing my old friend this evening
+What's the program for today
+That's enough for today
+Let's call it a day today
+Today's the coldest day we've ever had
+It is damp and cold today, isn't it
+Today we'll study Charles Dickens
+I've had it for today. I'm too tired
+It is as warm today as yesterday
+Hello, I am Nancy
+Today I have a lot of things to do
+I have a hangover today
+It appears to me that she feels much better today
+Today is my sister's birthday
+As it happens, I don't have any money with me today
+I would rather not go to school today
+I didn't do much work today
+I feel rather off today
+It is fine today
+It's such a nice day. Why don't you take me for a drive
+You are being naughty today
+It is still colder today
+You look different today
+I missed my bus this morning
+You aren't yourself today
+He is not himself today
+It's awfully hot today
+Thank you very much for your hospitality today
+How much should I pay today
+I can't treat you today, but I'll make up for it next week
+It's better for you not to see my grandpa
+I hope you behaved well at school today
+I'm going to meet a customer in his office today
+I have no money today
+It is pretty cold today
+It is rather warm today
+I feel better today than yesterday
+It's cloudy today
+There are jellyfish out there today, so watch out
+The whole class is present once a week
+I think I will wear this red sweater
+Let's stop here
+I needn't have worn such a heavy coat today
+Today was the worst day in Sarajevo
+You must not take either a shower or a bath
+John is on duty today
+I had quite a busy day today
+I would not go skating today
+I'm feeling much better today
+I feel much better today
+It's a lovely day today
+I have a lot of things to do today
+Let's not discuss the matter today
+I don't care to do it today
+It's very cold today
+It is pretty warm today
+It is very fine today
+It's very hot today, isn't it
+I have many things to do now
+I have a lot of work to get through today
+I don't feel like smoking today
+I'm not certain we can get tickets tonight
+There is not the least wind today
+It is nice and warm today
+I feel a little weak today
+I'm lucky today
+It is not my day
+What seems to be the problem today
+Thank you for today
+It is especially hot today
+Where do you want to go today? An amusement park, or maybe a movie
+Today he is better, if anything
+He is, if anything, better today
+I had a very good time today
+It is very cold today
+It is very cold today, isn't it
+It is a very pleasant day today
+You're certainly looking fit as a fiddle today
+As it is very hot today, I don't feel like studying
+I was tired today
+What shirt will you wear to school today
+What sort of television programs are on today
+I would like to do something else today
+How fine it is today
+How windy it is today
+It's insanely hot today
+Let's take it easy at the beach today
+It is too cold for a picnic today
+What are you doing dressed so well? Do you have a date or something
+It is terrible weather today
+You are being ridiculous today
+Even video-game machines owned by most children today are computers
+There is little wind today
+She is a shade better today
+Today more and more people begin to use computers
+It hasn't rained this month yet
+I would rather not go out today
+I have a great deal to do today
+I can't stay long today
+Apples were on sale today
+Let's go Dutch today
+He's out for the day
+It was cloudy all day long today
+It will rain on and off today, so you'd better take your umbrella
+It is likely to rain today
+It is supposed to rain today, isn't it
+I think it'll rain today
+Do you suppose it will rain today
+It was raining today. What'll it be like tomorrow
+We expect that it will rain today
+It's rainy today
+It being rainy today, let's cancel our shopping
+The weather is unfavorable for our athletic meet today
+There were no clouds today
+Don't you want to swim today
+We have an English class today
+I don't feel like studying English today
+I feel like doing something different today
+Anything new today
+How hot it is today
+What a lovely day it is today
+I have nothing on for today
+You had better not do anything today
+There is nothing to do today
+I don't feel like eating anything today
+What shall we do today
+What are you going to do today
+What time will you be home this evening
+What's the day today
+Which day of the week is it
+You should stay at home today
+I feel like going out rather than staying at home today
+Instead of cleaning the house today, I think I'll take a walk
+Today, we have to sleep outdoors
+It is bright and clear
+It's fair today, so we can work all day
+What do you think about eating out tonight
+I would rather stay at home than go out today
+There was a marathon at school today and we were very tired
+Aren't you supposed to be at school today
+Today is our school field day
+There is no school today
+May I leave school early today
+I really enjoyed myself tonight
+Today, we're going to have a good time
+I was excited to come
+It's cold today
+It's cold today so button your coat
+It's a cold day, isn't it
+It's simply too cold today
+It's supposed to get colder and snow later today
+The cold is terrible this year
+It's warm enough today to bring out a slight sweat
+It is a pleasant day today
+I feel better today, but I am not well enough to work
+It's a pleasant day, isn't it
+I feel terrible today
+I feel well today
+Do you feel any better today
+I feel better today
+There is only a small audience today
+I am off today
+He said that I shouldn't even be coming in today
+I'm in a hurry today
+It is a payday today
+Fish is cheap today
+The fish aren't biting today
+The fish are striking well today
+Today is not your day
+You had better stay away from work today
+It is Monday today
+I had an awful experience today, so I'm going to have a beer and go straight to bed
+Bring an umbrella because it is expected to rain this afternoon
+You'd better not go today
+Did you behave today
+Tomorrow is another day
+Today is the hottest day this year
+I wasn't at my best today
+It isn't anywhere near as hot today as it was yesterday
+It is as hot a day as yesterday
+It isn't anything like as cold as it was yesterday
+It is less cold today than it was yesterday
+It is less humid today than it was yesterday
+It is not so hot today as yesterday
+It is less muggy today than it was yesterday
+There are many more students in the classroom today than yesterday
+There's more cloud today than yesterday
+It is warmer today than yesterday
+You had better take an umbrella with you today
+I won't work overtime today
+I found no job today
+I don't feel like working today
+It is too hot a day for work
+You can take today off
+There was no fresh meat in the market today, so you'll have to content yourselves with something out of a tin
+I'll pay the money for your lunch today
+Today is my sixteenth birthday
+Today is our anniversary so let's make this a special dinner
+I've been pressed for time today
+You do look nice today
+It is truly a nice day today
+Today is certainly a pleasant day
+The car is not available today
+I was on the go all day today looking for a loan
+Today we're going to focus on the question of homeless people
+I don't have classes today
+Let's let the workers go home early today
+I have no homework today
+We have a holiday today
+I feel like going out today
+It's hot today
+Today is hot so we can swim in the ocean
+It's hot today, isn't it
+I think it will be hot today
+The heat is terrible today
+It's simply too hot to do anything today
+I feel a little bad today
+It is a little cool today
+Have you practiced any today
+It's rather cold today
+It's rather cold today, but I think it'll be fairly warm tomorrow
+I'm feeling a little blue today
+I am a little out of sorts today
+I'm a bit serious today, but please bear with me
+I have a slight headache today
+I have a slight fever today
+Try not to buy anything on impulse today
+I have a good appetite today
+Today is the best day of my life
+You look very happy today, don't you
+The weather's rather jolly today
+I have math homework today
+The weather doesn't look like clearing up today
+It is sunny today
+The weather will be fair today
+It's snowy today
+I've got a big wash today
+There is no wind today
+I'm going to clock out early today
+Why don't you go home early today
+It's fairly warm today
+A number of students are absent today
+I'm out of shape today
+I don't feel well today. That well water is the cause of many illnesses
+Who will be the chairperson today
+Is anyone absent today
+I don't want to see anybody today
+It's warm today so you can swim in the sea
+It's warm today, isn't it
+Today above ground tomorrow under
+There is much water in the pond today
+The lengths of day and night are the same today
+I don't have enough time to eat lunch today
+All day, I have been strangely preoccupied with thoughts of my hometown
+I feel chilled to the bone today
+It is very fine today so I would rather go out than stay at home
+I played outside with everybody because the weather was good today
+The weather is unusual today
+It's fine today
+I wish it were fine today
+It seems that the store is closed today
+I've had a lot of calls today
+I'm not free today
+It's Saturday today
+My brain doesn't seem to be working well today
+Today the fog is as thick as pea soup
+It is cloudy today
+Does it look cloudy today
+Two students are absent today
+Two boys are absent from school today
+Did you write anything in your diary today
+It being Sunday today, we have no school
+Today is hot enough for us to swim in the sea
+The waves are high today
+Sales are down this month
+I am going to see him today
+Today he was late for his class. But he is, on the whole, a satisfactory student
+I was tired today so I went to bed early
+I'm kind of tired today
+Today is extremely hot
+I am off duty today
+As I am off duty today, let's go to the beach
+Because I am sick today, I want to absent myself from the company
+We can see Mt. Fuji clearly today
+Dad's in an impatient mood today
+There isn't much wind today
+There's no wind today
+It is windy today
+It is windy today, isn't it
+The wind is cold today
+I have a touch of a cold today
+Let's try another place to eat today
+You don't need to study today
+I don't feel like studying today. Let's go to a soccer game
+I am busy today
+I can't go with you because I'm very busy
+I'm busy today, otherwise I would accept
+It's really cold today
+I'm really tired tonight
+I don't feel inclined to play baseball today
+I have the blues today
+It's your birthday, isn't it, Yuri
+I would rather study than play today
+We may have a shower today
+I have a full program today
+I'm expecting a customer today
+I had no visitor today
+It's cool today
+I'm going to be fast asleep tonight because today was a great day
+We are free from a cold wind today
+I am going to apply for a visa today
+Even videogame machines owned by most children today are computers
+I'll give you a ring later today
+The weather has been good until today
+To this day we call them Indians
+Another lonely day
+Looks like another nice day
+I've had it. All I've done today is handle complaints
+It's going to be another hot day
+I'm very sleepy today, too
+I achieved all I hoped to do today
+I'd rather you came tomorrow than today
+There was a smash-up out on Route 66 today
+I must hand in the report today
+Why don't you take the day off
+I think it might rain today, but I could be wrong
+Will it rain today
+There is no chance of rain today
+Fluency in English is a very marketable skill today
+It is essential to have good command of English nowadays
+There was a fire near the house today
+How about meeting today
+Do you want to eat out tonight
+Machines can do a lot of things for people today
+When I got up today, my throat felt a little sore
+Can I borrow your tennis racket today
+As of today, we haven't had an answer from him
+Ancient customs are dying out quickly today
+I must have a haircut at the barber's today
+We're playing baseball after work today
+How about having a drink after we finish our work today
+You've made me what I am
+You probably don't understand a word I'm saying today
+Today we can go to distant countries easily by plane
+You can use my car today
+I wonder what I should do today
+I picked up a key I found on the way today
+I go to the hospital today
+Today I went to the dentist's
+Today cars are so popular that we assume everyone has one
+Today young people find themselves, through no fault of their own, living in a world torn by international bitterness and the threat of nuclear destruction
+Today's housewives do nothing but complain of high prices
+Today, automobiles have taken the place of horses as the principal means of transportation
+It makes no difference whether you go today or tomorrow
+I might as well leave today
+Today the new leaf sent out a bud
+Soccer played throughout the world today is closest to the original football
+Today, people all over the world are moving out of small villages in the country to go and live in big, noisy cities
+There is going to be a game between Waseda and Keio today
+Who do you think I ran into today
+The president will hold a press conference later today
+We are liable to get a storm before the day is out
+If only I could be through with my homework today
+Without electricity we can't live a good life today
+Is this today's issue of the Asahi Shimbun
+He asked after my wife when I met him today
+I forgot to call him today
+Today I got my mother out for shopping
+I left behind something today
+That which was satisfied today becomes tomorrow's provisions
+Do you want to go to dinner today
+Shall I cook dinner today
+Today's meeting has been canceled
+The boy next door fell head first from a tree
+I've worn out two pairs of shoes this year
+Which player are you paying the most attention to this year
+How many students have been admitted to the school this year
+We haven't had much rain this year
+This year the region has been hit by a severe drought
+It was not until this year that these documents were made available to the public
+This year there were few rainy days in August
+I'm not looking forward to Christmas this year
+Christmas falls on Sunday this year
+Who do you think will win this year's Super Bowl
+Skirts this year reach a few centimeters above the knees
+There's a fine crop of corn this year
+St. Valentine's Day falls on Sunday this year
+This year's fashions are completely different to last year's
+This year's fashions are different from those of last year
+We have closed out this year's model
+We are going to travel in a group this summer
+This is the hottest summer that we have had in thirty years
+We had a very hot summer this year
+We have had little rain this summer
+Don't figure on going abroad this summer
+It was cold in the summer of this year
+It is unbearably hot this summer
+We had few sunny days this summer
+I don't feel like eating at all this summer
+I have to work for my Ph. D. this summer
+It seems to be cold again this summer
+On what day of the week does your birthday fall this year
+My birthday falls on a Sunday this year
+This year's harvest will fall short of last year
+This year's harvest will fall short of that of last year
+A great earthquake hit Mexico this fall
+I'm going to Paris this fall
+We have had few typhoons this autumn
+There will be an economic crisis at the end of this year
+There are many new programs to watch this spring
+I can't stand this hot summer
+Steel production is estimated to reach 100 million tons this year
+This is the coldest winter we have had in twenty years, I hear
+It's very cold this winter
+We have had little snow this winter
+We have a severe winter this year
+The temperature is above average this winter
+We have a mild winter this year
+We had less snow this winter than last
+We'll have little snow this winter
+We expect a very cold winter this year
+This winter is warm
+The growth rate of the Japanese economy will top 0.7% this year
+The farm production of this year is better than we expected
+Sales should double this year
+Culture Day falls on Monday this year
+There's a good chance that this year's rice crop will be up on last year's
+This year's good harvest will make up for last year's bad one
+This year's fashions are quite different from those of last year
+There were not many rainy days in June this year
+This is the year 1990
+Four percent inflation is forecast for this year
+When are you going on holiday this year
+This year New Year's Day falls on Sunday
+This is the coldest winter that we have had in thirty years
+So far it has been an exciting year
+There have been many cases of cholera this year
+Our land gave a high yield this year
+I want to read as many English books as possible this year
+I'm planning to read as many books as I can this year
+We have a good crop of tomatoes this year
+The roses are blooming early this year
+It seems that bikinis are in this year
+We're expecting a good harvest this year
+We've had a lot of rain this year
+I hear Latin music is taking the music industry by storm this year
+There has been a good apple harvest this year
+The apple trees blossomed early this year
+Long dresses have come in fashion this year
+The rice is coming well this year
+It isn't raining much this year
+We have had plenty of rain this year
+Summer is slow in coming this year
+We have a cold autumn this year
+It is colder this year than last year
+This year we had more snow than last year
+Will we have more snow this year than last year I wonder
+We had more snow this year than last
+I don't think that the Giants will be the champions this year
+I think that the Lions will be the champions this year
+Any turnaround of the economy is not expected this year
+There were fewer accidents this year than last
+This year the cherry blossoms are coming out a little later than usual
+The business has expanded by 50% this year
+This year unemployment will reach record levels
+Spring is late this year
+Spring is slow in coming this year
+Spring has come early this year
+Spring is late coming this year
+The wheat is coming very well this year
+I can't afford a new car this year
+I have been here several times this year
+We have had little snow this year
+We have had plenty of snow this year
+We've had four retirements this year
+This year typhoons comes in succession
+The weather has been unusual this year
+Business failures are down 10% this year
+I resolved to keep a diary this year
+Do you think the rainy season will set in early this year
+The end of the rainy season came late this year
+This year has been a lucky one for him
+This year promises a good harvest of rice
+The rice crop was scanty this year
+We have had a heavy crop this year
+This year promises an abundant harvest
+Our daughter will be in the Shichi-Go-San festival this year
+The trees are budding early this year
+More students than ever before have sat for their bar examinations this year
+The cherry blossoms will come out earlier than usual
+We have less snow than usual
+Is there any chance of your coming to Tokyo again this year
+May the new year bring you happiness
+Please treat me this year as well as you did last year
+There are only a few days left before the end of the year
+What do you think is the best film that you have seen this year
+How about staying at my place this evening
+I don't feel like going out tonight
+Let's eat out tonight
+Why don't you have dinner with me tonight
+Can you come for dinner tonight
+The President is to speak on television this evening
+Could you call me tonight, please
+She will be here this evening
+It's convenient for me to see you at ten tonight
+I am free till 6 o'clock this evening
+Come round to see me at eight tonight
+I see no harm in your going out alone this evening
+I can't go to the restaurant with you tonight
+What are you doing this evening
+I'm sorry that I can't meet you tonight
+We're having some guests over this evening
+We're having five guests tonight
+Are you free this evening
+I'll call you up this evening
+Please give me a ring this evening
+I have a reservation for three nights from tonight
+A telephone call from him is probable tonight
+How about playing chess tonight
+What's on the air this evening
+I've decided what to cook for dinner
+Today's dinner is fish
+I got an invitation to a party tonight that I know would be a lot of fun but I have to be in my best form for tomorrow's meeting so I had to turn it down
+Are there any seats left for tonight
+I'd like to make a reservation for tonight
+I feel like going to bed early tonight
+We're having a party this evening
+Let's have a party tonight
+Let's give a party this evening
+We're filled for tonight
+I've had a pleasant evening
+We are expecting company this evening
+I don't feel like watching TV tonight
+I don't feel up to eating anything tonight
+I would rather stay at home than go to the movies tonight
+Is there going to be a party tonight
+I haven't eaten dinner yet this evening
+Let's dine at restaurant this evening
+It is not going to rain this evening
+I suppose it's going to rain this evening
+I'll be free this evening
+Let's eat in this evening
+Let's eat out this evening
+I'd rather not go out this evening
+I feel like eating out tonight
+I hope you enjoy yourself this evening
+It is going to be cold tonight
+I have some work to do this evening
+I'll cook for you tonight
+I feel a bit feverish tonight
+Not a single star is to be seen tonight
+We can see many stars tonight
+I had a great night
+I'd like to have meat for supper this evening
+I don't feel like eating supper tonight
+What are you doing tonight
+Thanks for coming over tonight
+The train is very crowded this evening
+Can we find accommodations at a hotel for tonight
+I'm going out with Lisa tonight
+It's going to rain this evening
+How about going to see a movie tonight
+What time shall I call you tonight
+Are you free tonight
+I would rather read a book at home than go out tonight
+I'm seeing her this evening
+Let's get together tonight
+We are giving a small party this evening
+Can you tell me who is coming tonight
+Call me this evening
+We would like to stay here tonight
+Do you have any rooms left for tonight
+Can you fix him up for the night
+I'll call him tonight
+We will have a meeting at his house this evening
+We are giving a farewell party for him tonight
+I'm planning to study tonight
+I have a great deal to do tonight
+If he dies now, the situation will become serious
+Will it do me any good to try to persuade him now
+I got a call from her this morning
+Don't phone her now
+Have you got a cold now
+They are on the air now
+The law now requires women to be employed on equal terms with men
+A storm warning is out now
+What I want now is not money, but time
+I found you
+Can you make it to our usual place at 7:00 p.m. tonight
+I'll call you up around eight this evening
+We're giving a party tonight
+I was wondering, would you like to go to a movie with me tonight
+Come see me if you are free tonight
+What do you say to eating out tonight
+Please call me up tonight at my office
+Do you want to have sushi tonight
+Is there a room available for tonight
+Shooting stars will be seen tonight
+I'll ring you up at seven this evening
+I regret that I can't see you tonight
+I'll take care of your child tonight
+What are you going to do this evening
+We're not sure we can come tonight
+Be at home this evening
+Can I see you tonight
+Can you put me up tonight
+She'll be pleased to be here tonight
+Tonight will be fine. Let's make it for 6:00
+May I watch TV tonight
+Going somewhere tonight? Look at you - all dressed up like that
+I have no place to sleep tonight
+As of midnight tonight the contract becomes effective
+I will have finished the work by seven this evening
+Please get my account ready by tonight
+The dinner was so delicious
+He played an excellent host at today's party
+Will you go to the party tonight
+Tonight's movie will be Twins
+Are you going to attend the meeting tonight
+What a fine moon we have tonight
+Who is going to speak tonight
+Let's toast the guest of honor
+I guarantee a huge audience for tonight's premiere
+Rain is forecast for this evening
+I have a reservation for tonight
+I bet it's fine tonight
+I will put up at my friend's tonight
+I enjoyed talking with you this evening very much
+I'm invited to Claudia's party tonight
+Let's stay here tonight
+I don't feel like studying at all tonight
+Well, it's just about time for me to be on my way. Have a great weekend, everybody
+Where shall we eat tonight
+I'll be glued to the TV tonight watching a really exciting program
+I had a good time this evening
+I'm dying to see you tonight in any event. Please come over by seven
+What sort of trickery do you have in store for me tonight
+What shall we have tonight
+I do not feel like drinking beer tonight
+Why don't we eat at a restaurant tonight
+Let's talk the night away tonight, shall we
+It will rain tonight
+I'm afraid it'll rain tonight
+How about going to the movies tonight
+I feel like taking a hot spring bath tonight
+Tonight I plan to go to a concert
+I don't feel like doing anything tonight
+What shall we eat tonight
+Please take me home tonight
+I'm free tonight
+It is all right to eat out tonight
+Let's eat out tonight; I'm too tired to cook
+Let's dine out tonight. I'm too tired to cook
+He said to me, 'Let's eat out tonight.'
+I'm dining out this evening
+I don't feel like eating out this evening
+I'm eating out this evening
+I feel first-class tonight
+How about eating out this evening for a change
+Is it possible to see Venus tonight
+The heavens are bright with stars tonight
+I have to stay at a hotel near the airport tonight
+It's raining hard tonight
+The moon is very beautiful this evening
+The moon is low in the sky tonight
+The moon is shining brightly tonight
+Dinner is on me tonight
+I should like you to be my guest tonight
+We have plenty of time tonight
+I didn't feel like going out this evening
+It's likely to snow this evening
+Will it snow tonight
+There is a possibility that it will snow tonight
+All is calm tonight
+Let's make a night of it
+I'll burn the midnight oil tonight
+It might not freeze tonight
+You can stay with us for the night
+He is on night duty tonight
+Are you off duty tonight
+I think it'll freeze tonight
+I don't have to study tonight. I think I'll watch television for a while
+Let's forget to study and enjoy ourselves tonight
+I guess you will be very busy tonight
+A full moon can be seen tonight
+Tonight I've got to get ready for tomorrow
+I have to burn the midnight oil tonight
+It will cool down tonight
+You can stay till tonight
+It may rain tonight
+How about going to the movie tonight
+May I go to the movies tonight
+Can you meet tonight
+We take great pleasure in meeting all of you this evening
+What do you say to dining out tonight
+How about eating out this evening
+How about dining out tonight
+I'll be back late tonight
+Oh, you're going home tonight
+Are you going to the theater tonight
+Come and see me tonight
+Will you please call me this evening
+I'll ring you up tonight
+I'll give him a call tonight
+I'm seeing them tonight
+Would you like to come and see us this evening
+Come over tonight. I will show you how
+He shall let him sing it again this evening
+We are to meet at five this evening
+Mike is coming to dinner this evening
+I am cooking now
+Confine your remarks to the matter we are discussing
+In case of trouble, please call me
+I sometimes apprehend that there will be some difficulty
+The trouble is that I am short of money these days
+The problem is that our car will not be available on that day
+The trouble is that your plan would be too expensive to carry out
+The trouble is that I am not equal to the work
+The trouble is that we are short of money
+The trouble is, she's almost lost her voice
+The trouble is that they only think of themselves
+The trouble is that she lacks experience
+The trouble is that it costs too much
+Now, there is a problem
+Should you run into trouble, I'll help, and so will my father
+I anticipate that there will be trouble
+The trouble with us is that we have no funds
+The trouble is that I don't have much money now
+The trouble is that he thinks only of himself
+The trouble with him is that he is lazy
+The trouble is that glasses always get lost
+The trouble is that we have nowhere to stay tonight
+The trouble is that we do not have enough money
+The trouble is that my watch gains three minutes a day
+The trouble is that my son does not want to go to school
+The trouble is that I have no money on me now
+The trouble is that there is little water left
+The problem is that my son doesn't want to go to school
+The trouble is he has no money
+The trouble is that I have no money with me
+The trouble is that they have no money
+The trouble is that they have no time
+We promised to stand by him in case of trouble
+You can count on me for five thousand yen or so when you're in difficulties
+I know that he keeps his promise
+If you get into difficulties, don't hesitate to ask for advice
+Turn to me for help if you are in difficulty
+Come to me if you are in difficulties
+The trouble is that I can't remember where I parked the car
+The trouble is that we have no money
+The trouble is that I am short of money
+Please stand by me when I need you
+When you are in trouble, you can count on me
+When we are in trouble we can take heart from the fact that things often seem worse than they are
+Drop me a line when you are in trouble
+My uncle gave me some good advice when I was in trouble
+Friends help each other. Just let me know what's wrong
+For the sake of children in need, we cooperated to collect donations
+It's important to help people who are in trouble
+Don't laugh at a person in trouble
+I can't forsake a friend in trouble
+We were at a loss what to do
+No, you mustn't because I am not on good terms with her now
+It seems that there was no way out of difficulty
+Never halloo till you are out of the woods
+Whether it may be hard or not, I must do it
+I am in the soup
+When he got into trouble, he turned to his parents for help
+He breasted it out against difficulties
+You should try to make your way despite all the difficulties
+I owe it to Mr Smith that I was able to overcome my difficulties
+I owe it to my mother that I was able to overcome my difficulties
+The resentment runs deep
+Strength always prevails in the insect Kingdom
+Some insects can take on the color of their surroundings
+An insect is a small animal and it has six legs
+We went into the woods in search of insects
+There are plants that repel insects
+A radical disarmament treaty prohibits all armaments and armed forces
+We had to push our way through the crowd
+I heard someone call my name in the crowded bus
+Someone stepped on my toe in the crowded bus
+I was walking along the crowded street when all at once I heard a shrill cry
+Look out for pickpockets on crowded trains
+The busy road is a danger to small children
+I lost my way in the crowded street
+In a crowded train, I make it a rule to give my seat to old people
+The lines are crossed
+To avoid confusion, the teams wore different colors
+I am wholly responsible for the confusion
+The confusion is all over
+Shoemakers' children go barefoot
+A house without love is no more a home than a body without a soul is a man
+A home without love is not a home any more than a body without a soul is a man
+I'm feeling the breath of life
+The soul animates the body
+Plato held that the soul is immortal
+She's always worrying about trifles
+Sadako Sasaki died on October 25, 1955
+Are you going out with Sachiko
+Sachiko is more popular than Judy
+Sachiko is most popular in our class
+Mr Sato called at eleven
+A Mr Sato is waiting to see you
+A Mr Sato called in your absence
+May I speak to Mr. Sato
+Mr Sato is on another line. Will you hold the line a minute
+Mr Sato speaks English well
+Miss Sato is a new secretary of the president
+Mrs. Sato pushed her son to study hard
+It is surprising that Mr Sato should fail
+Mr. Sato asked me many questions about the election
+Mr Sato ran a supermarket in his hometown before he came to Tokyo
+Let me introduce Mr Sato to you
+Miss Sato is in charge of my class
+Mr Sano speaks French with great fluency
+Kiss the fifth man from the left
+Turning to the left, you will find the gas station
+Turning to the left, you will find the restaurant on your right
+If you turn to the left, you will find the church on your right
+Turning to the left, you will find the post office
+Take the road on the left
+Turn hard left
+I don't know whether to turn left or right
+Turn to the left
+Turning to the left, you will find a coffee shop
+If you turn to the left, you'll see a white building
+Turning left you will find the bus stop
+Lie down on your left side
+The joint of my left shoulder aches
+I have a discharge from my left ear
+I have a foreign object in my left ear
+I have some numbness in my left hand
+I tried to write with my left hand
+Show me what you have in your left hand
+The figure on the left spoils the unity of the painting
+Raise your left hand
+My lower left back tooth hurts
+You will find the post office on your left
+Keep to the left
+Keep to the left, please
+My left foot is asleep
+He had a little operation on his left leg
+I have a prickling sensation in my left eye
+I got my left arm bruised
+For the time being I want to work at that bookstore
+At the risk of sounding too forward, I'd like to make a comment
+There is no need to worry about shortages for the moment
+That will be enough for now
+I can't see you due to the press of business
+Is there a difference
+The separation of gold from sand is problematic
+I'll show you how to separate gold from sand
+It's dry as dust
+We have no sugar
+I need some sugar. Do you have any
+Add a little sugar and cream
+Would you like sugar and milk
+Don't confuse sugar with salt
+We have to do without sugar; we're short of it
+We have to do without sugar
+I got my mother's goat when I gave her the salt instead of the sugar
+Sugar will dissolve in a glass of water quickly
+How much sugar do you use
+There is some sugar in the bag
+Is there any sugar in the pot
+We sell sugar by the pound
+Is there any sugar
+Important as sugar is as article of food, we cannot live on it
+Sugar dissolves in water
+All sugar is sweet
+There is little sugar left in the pot
+Sugar melts in hot water
+Would you like some sugar
+Sugar dissolves in hot coffee
+Dissolve sugar in hot water
+Add a bit of sugar, please
+In the desert, camels are more important than cars for transportation
+She is brave to live alone in the desert
+Canals have been built to irrigate the desert
+Desert sand cools off rapidly at night
+We ran out of gas in the middle of the desert
+Desert ecology is a new field of study
+The desert sun grilled him
+It is a lot of fun picking various shells on the sands
+We need to bind gravel with cement
+White collar crime has made American people trust the government less
+The imposter was caught
+A confidence man can talk his way into a girl's trust with ease
+A confidence man polishes his hood winking or eye-washing techniques before bilking a new victim
+The strength of the chain is in the weakest link
+Keep the ball rolling
+You'd better sit down, I suppose
+Let's sit down and catch our breath
+My legs ache from sitting
+Why don't you sit down and relax
+Sit down and rest for a while
+I thought I might not be supposed to sit down
+I found the chair was comfortable when I sat on it
+May I sit down
+A quiet place to sit and rest would be nice
+There was no choice but to sit and wait
+Sitting over my book, I fell asleep
+Sit down, Kate
+Take the weight off your feet
+Won't you take a chair
+This is a comfortable chair
+There's no chair to sit upon
+I can't fix the seat
+Two seats remained vacant
+May I put my seat back
+All seats are reserved
+Please fasten your seat belts, and kindly refrain from smoking
+Let's go back to our places
+Would you make room for me
+Please save my place
+It was good of you to give up your seat
+I booked a seat
+I feel secure when I invest in stocks but not bonds
+The proceeds from the bond issue will be used to finance the budget deficit
+Bonds together with some money was stolen
+The debt-servicing cost on bonds will take up major portion of the budget
+The yield on the bond is 6%
+I'm afraid this sounds like a demand, but could you return the money I lent you the other day
+Throw a tear-gas bomb at him
+Once again, Mrs. Lee speaks fondly of the past, and it is impossible to stop her
+Again the younger brother became a wanderer, and he arrived one day at the house of the elder brother
+I agree with them that we should try again
+She was never to see her home again
+It is rather cold again today, but tomorrow we expect the temperature to rise
+It brought me down to earth
+May there never be another world war
+There is little chance of my meeting him again
+Marco might well burst into tears to meet his mother again
+Drifting off to sleep again, the same dream returned, three times in all
+He went back to the drug store, located the machine, poured in the sample and deposited the $10.00
+Benefits accrue to the community from reconstruction
+There is no room for reconsideration
+Time after time I've invited them to come over and visit us but time and time again they've never come
+Is a recurrence likely
+There's a slight possibility of a recurrence
+The month after next is December
+How about two weeks from Thursday
+Men and women between the ages of 25 and 54 have the most stressful lives
+Even the finest fete becomes mere hogs swill
+The best thing is to tell the truth
+Whom we love best to them we can say least
+We have made an effort to quote our most competitive price
+The quickest means of travel is by plane
+Even the strongest man can't stop a typhoon
+Even the mightiest of empires comes to an end
+Some of the oldest Chinese chopsticks date from 1200 B.C
+What's your strongest type of sunscreen
+What's your strongest type of headache pill
+The most effective defense is offense
+The happiest women, like the happiest nations, have no history
+In its broadest sense communication includes all forms of transmitting thoughts or feelings between people
+The most wasted day of all is that on which we have not laughed
+Even the most self-centered people are usually forgetful of this fault
+And, most important of all, the stone does not tell us what kind of happiness we should find in that house
+The most important thing is a pleasant living environment
+They that govern the most make the least noise
+Please note that we have quoted the lowest possible price
+One of the most beautiful animals is the cat
+The busiest people have the most leisure
+The wildest colt makes the best horse
+Even the cleverest students can make silly mistakes
+Would you kindly quote your best price
+The best way is to do one thing at a time
+The best of friends must part
+At worst, I will get an average mark
+It is necessary that we should prepare for the worst
+The worst situation resulted
+You must prepare for the worst
+It is necessary to prepare for the worst
+The worst is still to come
+The worst is over
+She can get the second prize at worst
+Are you prepared for the worst
+The worst friend and enemy is but Death
+Can you tell me the way to the nearest post office
+I live miles away from the nearest station
+Where is the nearest station
+Could you tell me how to get to the nearest station
+Can you tell me how to get to the nearest station
+Where is the nearest police station
+Can you direct me to the nearest subway station
+Where's the nearest subway station
+Where is the nearest telephone
+Lately, we see crows everywhere
+Lately it seems that no matter how much I sleep, I stay tired. I wonder if I've come down with something strange
+I'm getting a spare tire around my waist. I guess it's middle age creeping up on me
+Recently the demand for this product has increased faster than the supply
+I am into golf lately
+Why haven't you been showing up to work lately
+Have you been in contact with Mr White recently
+I saw Rosalie O'Connor recently
+Few students use pencils these days
+Have you read any interesting books lately
+Recently we have brought our office equipment up to date
+Have you been in contact with one of your old school friends recently
+A lot of companies are going under lately because banks are so tight with their money
+The turnover at my company is really speeding up lately
+Lately I see a lot of parents getting divorced. I wonder if the idea of kids being a bond between their parents is just a thing of the past
+The birth rate has been decreasing recently
+I haven't been getting enough sleep lately
+I am putting on weight these days
+I've lost weight recently
+Recently, the dignity and importance of the Japanese father has diminished
+These days few people suffer from tuberculosis
+I haven't seen anything of him lately
+We haven't heard of him lately
+Recently I get annoyed at the slightest thing he says
+Recently he bothers me
+Lately, he reproaches me
+Prices dropped recently
+Could I be going soft in the head? I forget things so easily these days
+Recently I moved to another apartment
+These days many old people live by themselves
+We don't meet very often recently
+The new camera our company has been marketing lately has a design different from any we've marketed before
+I have not seen anything of Elizabeth lately
+Have you heard from your sister lately
+I'm tied up with this job recently
+I just bought a new desk for my computer
+Recently I started the diet
+More and more Japanese are traveling abroad these days
+These days, when people emigrate, it is not so much in search of sunshine, or food, or even servants
+Many old people these days can't keep up with the times
+Recently John feels better on and off
+There is little harmony in international affairs nowadays
+Nowadays it is not unusual for a woman to travel alone
+Many old people these days cannot keep up with the times
+I haven't seen Tom lately
+It is only recently that people have begun to realize the importance of nature conservation
+It was not until recently that she changed her mind
+How is livelihood in America these day
+A recent survey shows that the number of smokers is decreasing
+I'd appreciate it if you sent me your latest catalog
+The recent shortage of coffee has given rise to a lot of problems
+I'm really not up on recent TV shows
+What is the latest news
+Due to the recent hurricane, a lot of people lost their homes
+Pro baseball is interesting these days
+Recent overseas transfers show that productivity improvements in Japanese manufacturing industry have almost reached their limit
+These days when I hear about these horrible incidents on the news I get the feeling that more and more young people are losing their ability to distinguish between real and virtual worlds
+These bank employees seem so politely insolent lately. I wonder what's behind it
+Recent investigations have demonstrated that the application of Emmet's theory is not always without defects
+According to a recent study, the average life span of the Japanese is still increasing
+The president made special remarks with reference accident in the nuclear reactor
+Some of these young people have legs twice as long as mine
+I can't keep up with the fashions of young girls these days
+These days more young husbands help their wives with housework
+Lately high school girls are using their cell phones to exchange e-mail
+Modern ships only need a small crew
+A recent survey reveals that the population density in the metropolis is decreasing
+A recent survey revealed that the population density in the metropolis was decreasing
+What do you think are the best sellers of the latest Japanese records
+The modern Japanese politics is bad
+Modern cats don't eat rats
+Recent comics have too many violent and sexual scenes
+More and more people these days are getting overwhelmed by housing loans
+I've been coming to work one train earlier lately
+These days the number of women who don't want to change their family names even after they get married is increasing
+Lately the discount airline ticket system has gotten so complicated that there's a lot about it I can't figure out
+These days more and more young people talk to their elders on even terms
+A dollar does not go very far these days
+I see little of my father these days
+I started using PCs recently
+A lot of construction is going on these days
+What are you into these days
+Everybody is happy nowadays
+Nowadays, a safety zone is not always safe
+We often have unusual weather these days
+Nothing I do lately seems to turn out right. I'm losing confidence in myself
+Recently even students have come to visit foreign countries quite often
+Now we are having one cold day after another
+I have hardly had a minute lately to think about personal e-mails
+Nowadays many people travel by car
+There's a trend these days towards small families
+Nowadays nobody believes in ghosts
+I've got little time for reading these days
+Recently, the number of foreigners working or studying in Japan has increased
+I have heard nothing from him of late
+We haven't heard from her of late
+Life is getting hard these days
+Until recently, the main function of women was to marry and give birth to children
+Until recently we took oil for granted
+Something's wrong with my e-mail
+I've seen much of him recently
+We go there often
+Rapid and remarkable advances have been made in medicine
+The room I've moved into recently gets plenty of sunshine
+Have you seen any movies lately
+Lately you see more young couples making out at the train station ticket gates acting as though nobody in the world existed
+Two books stand out among the dozens recently published on the Royal Family
+Have you read anything interesting lately
+Society has seen a lot of change recently
+Now the company can justify such expenditure
+The number of students going overseas has been increasing lately
+I've taken up painting recently
+Recently, more and more countries have prohibited smoking
+Recently communism has extended its power
+I want to hear all your news
+You hear about a lot of incidents these days that would be hard to dream up. It really backs up the old saying that fact is stranger than fiction
+I've been sluggish recently
+I cannot get enough sleep any more
+I haven't seen much of him recently
+I have seen nothing of him recently
+These days I'm very busy
+My vision is getting worse these days
+I was recently in an automobile accident
+Recently the number of cars has greatly increased
+I feel like I'm just getting comfortable with my homemaking chores
+Of all the books published recently, only a few are worth reading
+Recently I have had no appetite
+There seems to be no end to the number of young people committing suicide these days
+Recently, many traffic accidents have occurred on that road
+A number of traffic accidents have happened recently
+Many women work outside their homes these days
+Recently numerous groups have offered counsel
+Recently the condition of the body is not so good
+Recently, many public bath-houses have gone out of business
+It scares me that we have frequently had earthquakes lately
+You've been late for school more often than before
+Recently the number of worms increased
+The condition seems to be bad recently
+I'm not in good shape now
+How's everything these days, Frank
+A unique fossil of a tropical plant was found recently
+He writes to me less and less often these days
+Have you heard from him recently
+I haven't heard from him of late. I hope he is not sick
+He died lately
+I have not seen much of him recently
+Have you been seeing a lot of him recently
+Have you been in contact with him recently
+I saw him recently
+I have not seen him lately
+I have heard nothing of him lately
+I have recently become accustomed to his way of speaking
+Recently he has come to realize the significance of married life
+Recently he launched a new business
+They are studying these days
+Have you heard from her recently
+When I saw her recently, she looked very happy
+I have not seen her lately
+I have seen nothing of her lately
+We haven't seen her of late
+A strange marine creature was found recently
+I'm getting forgetful these days, but what can you do
+Are you overworking yourself lately
+I haven't seen anything of Mr Kimura lately
+Who was the last to reach the goal
+Who was the last person to log on to the computer
+It'll come right in the end
+I finally came up with a great idea
+Justice will prevail in the end
+When did you have your last physical examination
+The last to leave was a tall man, with a pale face and smooth, black hair
+It is justice, and not might, that wins in the end
+You won't be let down if you read the entire book
+When did you see him last
+I've finished all except the last page
+We'll sing that song, omitting the last two verses
+He was in despair when he spent the last of his money
+It's time to move in for the kill
+The last straw breaks the camel's back
+You kept putting off working on the fine details on this project so it ended up lacking the finishing touches
+He cried off at the last moment
+Never give up till the very end
+The final exams will probably carry over into next month
+He supposed he could always quit the job in the last resort
+A good idea came across his mind at the last moment
+The last wound proved fatal
+My last period was two months ago
+Will you explain the last part in detail
+When the last leaf falls, I must go, too
+You will succeed in the end
+You don't have to stay to the end
+You must carry the task through to the end
+We were arguing on different planes to the last
+Let me finish
+Let's fight to the last
+I intend on fighting till the end
+Stick it out
+He did his best to the last
+What a scream
+The best of luck to you
+I feel on top of the world
+Even the richest man cannot buy everything
+It's in peak condition
+Deal in top of the line of goods
+The performance was excellent
+The Supreme Court attacks school segregation
+The Supreme Court overturned a previous decision
+The Supreme Court is located near the Imperial Palace
+You may spend a maximum of 100 dollars
+The best is best cheap
+The final score was two to nothing
+We were just in time for the last train
+The last bus having left, I had to take a taxi
+The last bus having gone, we had to walk home
+There were very few passengers on the last bus
+I hurried to the bus stop so that I would not miss the last bus
+The final plan differs greatly from the original one
+A pinch hitter was brought into action in the last inning
+The deadline is drawing near
+The final decision rests with the students themselves
+The final decision rests with the president
+At his final exam, Bob was really put through the wringer; the test covered everything that was in the course
+As to your final grade, that depends on your final examination
+The final proposal will be announced sometime next week
+The new final deadline is at 7 o'clock on June 10th
+I missed the last train, so I had to walk all the way home
+I was impatient with fear of missing last train
+When does the last train start
+The final vote was decisive
+The last train has already gone
+At first I thought I liked the plan, but on second thought I decided to oppose it
+At first the trainees were awkward in his company
+At first, I failed the test
+At first, I could not swim by myself
+I had stage fright at first, but I got over it quickly
+At first he was all at sea in his new job
+People were against Mother Teresa at first, but she never gave up
+At first, he could not speak English at all
+We didn't hit it off too well at the beginning, but as we got to talking, we found we got along quite well
+We should have been fully aware of this risk all along
+Try it again from the first
+I mean, I was spellbound the whole time
+Let's begin at the beginning
+As a beginning I would like to examine the catalyzer used in this experiment
+First, we will talk to Doctor Benjamin Burns
+At first, the trainees were awkward in his company
+First, he finished his thesis
+The first thing he did was to untie his shoelaces and take his shoes off
+The first question we must raise is whether a cultural barrier existed between those groups
+Mr Gray was the first man that arrived
+First come, first served
+Whoever comes first will get the best seats
+It was I that came here first
+We began with the soup
+The first thing to do was call for the doctor
+First off, I'd like you to come with me to a department store sale
+First, put the right hand out
+Please tell me what I should do first
+The first point to be discussed is whether segregation existed in this district
+The student who finishes the examination first does not always get the best grade
+Cursed be he that first invented war
+The first thing that caught his eye was a fingerprint on the glass
+It was Jane who came first
+At first he had difficulty telling one student from another
+I didn't like her at first, but now I do
+The first group studies in the morning, and the second group studies in the afternoon
+At first, the boy didn't pay much attention to my advice
+At first, I had difficulty understanding people when they spoke too fast
+I remember the first time
+In the opening paragraphs I query the validity of so-called supply-side economic strategies
+The first step is always the hardest
+The first printing machine was invented by Gutenberg
+Take the first turn to right and then go straight on
+Turn at the first corner to the right
+Please turn left at the first corner
+The first item is a motion proposed by the Education Committee
+This road should have already been completed according to the original plan
+The revenues for the first month of 2011 exceed one million yen
+The first atomic bomb was dropped on Japan
+The first attack missed the target
+After the first letter the other came easily
+How does the first article run
+Turn left at the first light
+Do I turn left at the first stoplight
+When they had their first baby, they had been married for 10 years
+The first batter was caught out
+Take the first street to the right
+The first electric calculator came into existence toward the end of the 19th century
+At first many things seemed different, but I soon got involved in my new life
+At first I didn't like ballet, but I've come to like it by degrees
+At first everybody was convinced of his innocence
+What seems easy at first often turns out to be difficult
+At first, I didn't know what to do
+Initially I found it difficult to deal with my new environment
+At first, I couldn't understand what he said
+At first they drove through streets of small, gray houses
+At first I tried to write everything down in my notebook
+No one believed me at first
+He looked unfriendly at first
+I didn't recognize him at first
+At first I didn't like him, but I do now
+I didn't believe him at first
+At first, I couldn't make out what he was saying
+He was shy at first
+He didn't like her at first
+At first, Meg was homesick
+At first, I couldn't play the guitar
+At first I was not sure which one I wanted, but afterwards I decided on this red one
+I didn't know what to do first
+At first, I thought he was a teacher, but he wasn't
+I overlooked the mistakes in your paper the first time I read it
+Some plants grow well with a minimum of care
+The best is behind
+The finest wines are those from France
+There is a restaurant on the top floor
+Senior students have access to the library at weekends
+Please send me your latest catalogue
+It seems I have misplaced your last mail
+It is very expensive to keep up with the latest fashions
+The girl drawing a picture in the first row is my niece
+Can I have a seat in the stalls
+Take such steps as you think best
+It is good to do your best
+I will do my best
+If you do your best, no one will blame you
+Let's hope for the best
+Had I done my best, I might have succeeded
+Do your best, and you will succeed
+Do your best
+I'll do my best, but I'll not be able to finish it before Thursday at best
+If you do your best, you will succeed
+Maximum length: 200 words
+The largest English dictionary has over 450,000 words
+The greatest happiness lies in freedom
+Drive with the utmost care
+Mark your maximum efforts
+We are making all efforts possible to deal with the nuclear crisis
+Give it your all, and you won't be sorry later
+I am working with full steam
+Please come to the counter at least an hour before your flight
+Please estimate your best price and the earliest delivery date
+The minimum wage has hardly budged as of late
+Great care has been taken to use only the finest ingredients
+I am inconvenienced when my wife is away
+If it had not been for his wife, he would not have changed his job
+His wife being out, he cooked dinner for himself
+My wife keeps the household accounts
+A man whose wife is dead is called a widower
+I worked in my study after my wife had gone to bed
+It is their husbands' faults if wives do fall
+If my wife calls, just tell her I'm in an important meeting and cannot be disturbed
+The bus had left by the time my wife finished dressing
+I decided to wait at the station until my wife came
+Jim sometimes has disagreements with his wife
+My wife and children depend on me
+I constantly quarrel with my wife
+My wife and I like to go out for Chinese food once in a while
+My wife has faults. None the less, I love her
+My wife's constant nagging is getting me down
+I'm looking for a bag for my wife
+He took to drinking after his wife left him
+My wife's constant nagging really gets on my nerves
+A wife's activities are confined to domestic matters
+Without his wife's money, he would never be a director
+The untimely death of my wife has brought down the curtain on over 50 years of happily married life
+He did not even raise an eyebrow at the news of his wife's death
+My wife has had it in for me since I forgot her birthday
+My wife had a hard time getting into the swing of our new life in America
+My wife is always complaining about something
+My wife has just cleared the table
+My wife works part time
+My wife usually doesn't drink coffee at night, and neither do I
+My wife spends money as if I were the richest man in town
+My wife is a good manager
+My wife remembered having been in the town before
+My wife used to stay home, but she works now
+My wife is possessed with the desire to buy a house
+My wife likes to eat out and so she doesn't have to cook
+My wife died of cancer
+My wife is subject to moods
+My wife looked surprised
+After getting married, my wife put on five pounds
+My wife is suffering from pneumonia
+My wife gets on well with my mother
+My wife talked me into buying a new car
+My wife tried to persuade me into buying a new car
+My wife goes to the village market to buy foods every day
+My wife deliberated whether we would buy a new house or not
+My wife is ignorant of the world
+My wife shuddered at the sight of a one-eyed cat
+My wife went on a two-day trip
+His wife ran a hot bath for him
+A wife can have property independent of her husband
+Wives usually outlive husbands
+My wife gave me a sign from across the room
+My wife is liable to catch a cold
+My wife is getting tired of the daily routine
+My wife wanted to adopt a child
+My wife suggested to me that I take her on the trip
+I'm looking for a gift for my wife
+Hoping to cheer up his wife, Tom bought her a beautiful pearl necklace
+I talked my wife out of buying a new car
+I hurried to the station as I had kept my wife waiting
+Wife and children are hostages given to fortune
+Hatoyama says that he supports his family by gambling on horse racing
+She is as wise as fair
+You can't keep a good man down
+You shouldn't give up just because you have no talent
+One's talent is in need of discipline
+She just hides her light under a bushel
+Want of wit is worse than want of gear
+There was no one in the mine when it blew up
+Did you mark the papers
+If we decide to hire you, you will hear from us
+In order to get the soil ready for planting you must plow it
+The year stole by
+Age, like distance, lends a double charm
+Time and tide wait for no man
+Revenues are growing, but not as fast as costs
+Excuse me. Can I get by here
+Don't worry about what you've done
+Bring it back when you are through
+You can critique it all you want and it won't change a thing. It's over
+Turn your misfortune to account
+Make the best of a bad bargain
+Good comes out of evil
+A string of disasters struck the region
+The fort was attacked by surprise
+The festival came to an end
+When a holiday falls on Sunday, we have an extra holiday on Monday
+Do you remember Mr Saito
+Let's not quibble over trivial matters
+Don't split hairs
+He who minds his Ps and Qs will not forget to dot the i's and cross his t's, when writing
+Let's arrange the details later
+A fine rain was falling
+You may leave out the details
+Particles of dust float in the atmosphere
+Love me lithe, love me long
+Germs can cause sickness
+Germs can only be seen with the aid of a microscope
+Germs are too tiny for our eyes to see
+Muriel is living poorly off of her part-time job
+They made a whip out of cords
+Remember to cross your t's
+Do you have a special menu for vegetarians
+Can you recommend any vegetarian dishes
+Let's take it to court
+The trial lasted for ten consecutive days
+The lawsuit is likely to end in our defeat
+Judgment requires impartiality
+The court session lasted for three hours
+Suspending the trial is out of the question
+The judge pronounced him guilty, and now he must face the music of a sentence in prison
+Discretion is proper to judges
+Mr. Yappari appealed to the judge for mercy
+The judge concluded that the prisoner was innocent
+The judge took into consideration the fact that it was his first offense
+The judge concluded that the prisoner was guilty
+The judge pardoned the prisoner a year of his sentence
+The judge made no bones about his disgust with the accused's actions and handed down the severest sentence possible
+The judge laughed in spite of himself
+The judge decided against the plaintiff
+The judge sentenced him to a jail term of five years
+The judge condemned him to death
+Will the judge fine him heavily
+The judge sentenced him to a fine
+The judge disposed of the case in short order
+The judge charged the audience to be silent
+The courts administer the law
+The attitude of the court toward young criminals is different from its attitude toward adult criminals
+The court called on the lawyer to give evidence
+The court decreed that the charge be paid
+The court adjudged him not guilty
+The court decreed that she should pay the fine
+The judge called for a recess of two hours
+The presiding judge sentenced the defendant to death
+The presiding judge was touched by pity for the accused
+I had a close shave
+That was a close shave
+I'm afraid we are out of stock
+The supplies are beginning to give out
+What's the material
+The punishment should be in proportion to the crime
+The guilt manifests itself on his face
+The wages of sin is death
+If you commit a crime, you must be punished
+The criminal was sent to the gallows
+The criminal pleaded with him to change his mind
+What we have is one thing and what we are is quite another
+The fortune was divided among the three brothers
+The property was divided equally among the heirs
+The property passed from father to son
+Don't make such a parade of your wealth
+He exploited his position to build up his fortune
+I succeed to a fortune
+The division of the property was a bone of contention between the brothers
+He that marries for wealth sells his liberty
+Financial experts don't know what to make of this trend
+Financial reforms may ameliorate the current economic difficulties
+Some developing countries are faced with financial crises
+The financial situation is getting worse week by week
+Reducing the budget deficit is a major concern of the government
+A common way to finance a budget deficit is to issue bonds
+Financial support is given to them
+Gold prices are skyrocketing in the wake of financial instability
+A heavy purse makes a light heart
+My wallet and passport are missing
+I put my money in a purse
+There was no money left in my wallet
+I have no more money in my wallet
+Empty the purse into this bag
+We have to be careful with expenses
+I examined the purse again, and found it empty
+I'm looking for a wallet
+Put away your wallet
+I lost my wallet somewhere around here
+All that day my father was out of humor because he had lost his wallet
+Don't put the wallet on the top of the heater
+Who holds the purse, rules the house
+It occurred to me that I had left my purse at home
+He said that he had left his purse at home and asked me if I could lend him 1,000 yen
+When I felt for my pocketbook I found it was gone
+Will you help me look for my purse
+Don't lose your purse
+With respect to financial matters, Mr Jones knows more than anyone else in the company
+Kounosuke Sakazaki belongs to THE ALFEE
+Keep up the good work, Mr. Sakamoto
+Hanshin's moment of glory didn't last. They fell out of first place in a hurry
+In the Hanshin earthquake, the ground shook for a long time
+A Mr Sakaki has come to see you
+There is a river between Saitama and Chiba
+Was it difficult to make
+Much as I admire him as a writer, I don't like him as a man
+As a writer, she does not fit into any of the traditional categories
+Writers often refer to a dictionary
+Writers draw on their imagination
+Every writer writes in the way that accords with his own idiosyncrasies
+The writer does not always present life as it is
+Workers must have their hair cut short
+We saw laborers blasting rocks
+The workers are wiring the new house
+You must be creative in composing a piece of music
+Which of the composers do you like best
+Composers create music
+You have to read between the lines to know the true intention of the author
+The author expresses his passion for his love
+High operating temperatures shorten lubricant life
+I read in the newspaper recently that the crops really need rain
+It was believed that the success of their crops depended on the way the players threw or kicked the ball during the game
+The crop was blasted by the severe cold
+The crops have withered
+Have you finished writing your composition
+What is important in writing a composition is to make your ideas clear
+Personal liberty is diminishing nowadays
+Nowadays prices of commodities are very high
+Last year, we had frequent disasters
+We had a spell of fine weather last autumn
+I just got back from the States yesterday, so I'm still thinking in English
+I built an amplifier yesterday
+A ship sank near here yesterday
+The Giants got clobbered yesterday
+The bat was stolen yesterday, along with the balls
+I saw Shinichi in Kakogawa yesterday
+Yesterday I was on my way home from work when I ran smack into my old girlfriend
+I had a sharp pain in my chest yesterday
+Did you work yesterday
+Yesterday I wrote to Ellen
+Yesterday I ran across her at the station
+As I returned from school yesterday, I was caught in a sudden shower
+I met a famous scholar at the airport yesterday
+Yesterday I went to the store to get my watch checked
+I called at my uncle's house yesterday
+Yesterday, as I was walking along the street, I saw an accident
+Yesterday my bicycle was stolen while I was doing some shopping
+When I saw my uncle yesterday, he told me that he had returned from London three days before
+Who was it that broke the window yesterday
+Someone called on her yesterday
+Was it cloudy in Tokyo yesterday
+He didn't come back to the base yesterday
+I had some trouble finding her house yesterday
+She slept more than ten hours yesterday
+She came across Jack yesterday
+She was sick in bed yesterday
+I went to a sale with my mother yesterday and kept hounding her to buy me a dress
+I took a paid day off yesterday
+Yesterday a car fell over the cliff
+The second term came to an end yesterday
+I remember posting your letter yesterday
+You played tennis yesterday
+I had intended to visit you yesterday
+The company's stock price jumped yesterday
+I didn't get much sleep last night so I was nodding off all day at work
+I met a student from America yesterday
+I met her by chance at a restaurant yesterday
+Yesterday I hit on a good idea
+How many eggs could you get yesterday
+A big earthquake occurred in India yesterday
+I had some engine trouble yesterday
+I am sorry to learn you called at my home yesterday while I was out
+Didn't I lend you some money yesterday
+It happened that I was out when you called yesterday
+It has been raining since yesterday
+It has been cold since yesterday
+It has rained since yesterday
+I haven't eaten anything since yesterday
+I had curry and rice last night
+I met Ken yesterday
+It was I who met Masako here yesterday
+Go and find the driver who arrived here yesterday
+He told me that he had gone there
+The woman who came here yesterday is Miss Yamada
+It was Mary that bought this skirt yesterday
+Who was it that bought this skirt yesterday
+It was Mike that bought this racket yesterday
+Yesterday a pedestrian was run over by a truck at this pedestrian crossing
+It was Alice who went to the concert yesterday
+The Giants beat the Lions yesterday
+A welcome party was held in honor of Mr Jones
+A farewell party was held in honor of Mr Jones yesterday
+It's me that went there yesterday
+No students went there yesterday
+The house was struck by lightning yesterday
+Yesterday, a thief entered the house
+Who was it that bought those pictures yesterday
+I was to have finished the work yesterday
+I ought to have written the letter yesterday
+It was Jack that broke the window yesterday
+If only I had known the answer yesterday
+We had a lot of rain yesterday
+I read a lot in my diary yesterday
+I got tickets yesterday
+I went to Disneyland yesterday
+I went to the department store to do some shopping yesterday
+We saw an interesting program on television yesterday
+Yesterday, Tom was injured in a motorbike accident, so he can't attend gym class for the time being
+Yesterday a truck hit this wall
+We did not get your letter until yesterday
+Not until yesterday did I know of the event
+It was not until yesterday that I noticed it
+Not until yesterday did I know about it
+It wasn't until yesterday that I heard the news
+It was not until yesterday that I knew her name
+It was only yesterday that I realized what she really meant
+Only yesterday did I know the fact
+Not until yesterday did I know the truth
+It was not until yesterday that I knew the news
+It was not until yesterday that I heard about the accident
+It was not until yesterday that I knew the fact
+It was not until yesterday that we noticed the animal missing
+At 10 o'clock yesterday, there were hundreds of people outside
+The lecture you gave yesterday was a masterpiece
+Are you still letting last night's fight bother you? That's so naive
+There was a large audience at yesterday's concert
+I might have done well on yesterday's test, but I do not know the results yet
+Somebody told me that today's test was identical to the one we had last year
+We missed you very much at the party yesterday
+Every now and then she called home during the party last night
+Did you enjoy the party yesterday
+How did Barbara do on her driver's test yesterday
